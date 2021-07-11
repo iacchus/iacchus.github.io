@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kompvter Kvltvre - misc</title><link href="https://iacchus.github.io/" rel="alternate"></link><link href="https://iacchus.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://iacchus.github.io/</id><updated>2021-07-10T11:06:07-03:00</updated><subtitle>Free and open source computing</subtitle><entry><title>publish the blogging tools and advertise it !!!!!!</title><link href="https://iacchus.github.io/publish-the-blogging-tools-and-advertise-it-a.html" rel="alternate"></link><published>2021-07-10T11:06:07-03:00</published><updated>2021-07-10T11:06:07-03:00</updated><author><name>Iacchus Mercurius</name></author><id>tag:iacchus.github.io,2021-07-10:/publish-the-blogging-tools-and-advertise-it-a.html</id><summary type="html"></summary><content type="html">&lt;p&gt;test&lt;/p&gt;</content><category term="misc"></category><category term="test"></category><category term="rmme"></category></entry><entry><title>Beginning: Describing Our Projets</title><link href="https://iacchus.github.io/beginning-describing-our-projets.html" rel="alternate"></link><published>2021-07-08T08:55:27-03:00</published><updated>2021-07-08T21:05:15-03:00</updated><author><name>Iacchus Mercurius</name></author><id>tag:iacchus.github.io,2021-07-08:/beginning-describing-our-projets.html</id><summary type="html">&lt;p&gt;beggining and describing our projects&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is our first post; we have some projects to give a quickstart and write&lt;br /&gt;
+some howtos on how to use them.&lt;/p&gt;
+&lt;p&gt;Some:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;birdears&lt;/li&gt;
+&lt;li&gt;itml&lt;/li&gt;
+&lt;li&gt;musiceditor&lt;/li&gt;
+&lt;li&gt;python utils&lt;ul&gt;
+&lt;li&gt;unicode boxes&lt;/li&gt;
+&lt;li&gt;colorizers&lt;/li&gt;
+&lt;li&gt;terminal text formaters&lt;/li&gt;
+&lt;li&gt;blog posting tools&lt;/li&gt;
+&lt;li&gt;awesome sheet musiceditor&lt;/li&gt;
+&lt;li&gt;abc book&lt;/li&gt;
+&lt;li&gt;pybomberman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;etc&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Texts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;true linux python using android&lt;/li&gt;
+&lt;li&gt;with real toolchain like ssh and the like&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category><category term="projects"></category></entry></feed>

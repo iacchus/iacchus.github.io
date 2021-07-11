@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700|Old+Standard+TT:400,400i,700|Open+Sans+Condensed:300,300i,700|Oswald:200,300,400,500,600,700|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Arimo:400,400i,700&subset=greek,latin-ext');
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i);
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+/*@import 'github-syntax-light/lib/github-light.css';*/
+@import 'light.css';
+
+[data-theme='custom'] * {
+  //background-color: revert !important;
+  //border-color: revert !important;
+  //color: revert !important;
+}
+
+* {
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+    font-family: 'Open Sans', 'PT Sans', 'Roboto', sans-serif;
+    font-size: 14px !important;
+    color: #333;
+    //border: 1px solid #eeeeee!important;
+    //border-radius: 0!important;
+    border-radius: 0 !important;
+    border-color: #eee !important;
+    border-collapse: collapse;
+}
+
+.rounded-full {
+    border-radius: 9999px !important;
+}
+.gsc-header {
+  margin: 0 1em;
+}
+.gsc-comment {
+  margin: 1em;
+}
+
+.gsc-comment {
+  margin-bottom: 2em;
+  //margin-right: 0;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);
+}
+
+/* parent comment div (not the replies to the comment) */
+.gsc-comment > div:nth-child(2) {
+  border: 0;
+}
+
+.gsc-upvotes {
+  width: auto;
+  display: none;
+}
+
+/* number of upvotes */
+/*.gsc-upvotes > div > div > div {
+  border-radius: 0 !important;
+}*/
+
+.gsc-comment-reactions {
+  display: none;
+}
+
+.gsc-reply-reactions, .gsc-reactions-menu, .gsc-reactions-button {
+  display: none;
+}
+.gsc-comment-replies-count {
+  width: 100%;
+  text-align: right;
+}
+
+.gsc-replies {
+  border: 0px solid #669!important;
+  padding:0;
+}
+
+.gsc-reply {
+  border-left: 5px solid #669 !important;
+}
+
+.gsc-reply-box {
+  border-left: 5px solid #669 !important;
+  padding-left: 9px;
+}
+
+.gsc-comment-box {
+  width: auto;
+  margin: 1em;
+  //box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.16), 0 8px 8px rgba(0,0,0,0.20);
+}
+
+main > div > div.border-t-2 {
+  display: none;
+}
