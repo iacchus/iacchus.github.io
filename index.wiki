@@ -14,4 +14,4 @@ ok
 
 ok
 
-[[local:vimwiki.txt.breve.htm]]
+[[local:vimwiki.txt.breve.htm|Vimwiki documentation]]
