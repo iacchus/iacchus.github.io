@@ -1,4 +1,4 @@
-= VimWiki =
+= Vimwiki =
 
 [[page 1|teste desc]]
 
@@ -8,11 +8,9 @@ this is _italic_
 
 == header 2 ==
 
-ok
+:docs:
 
-:tag1:
-
-ok
+Here we have the vimwiki `:help`, light and dark
 
 [[local:vimwiki.txt.breve.htm|Vimwiki documentation]] |
 [[local:vimwiki.txt.dark.htm|dark]]
