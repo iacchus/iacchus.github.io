@@ -1,0 +1,15 @@
+= VimWiki =
+
+[[page 1|teste desc]]
+
+this is *ok*
+
+this is _italic_
+
+== header 2 ==
+
+ok
+
+:tag1:
+
+ok
