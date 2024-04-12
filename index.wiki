@@ -13,3 +13,5 @@ ok
 :tag1:
 
 ok
+
+[[vimwiki.txt.breve.htm]]
