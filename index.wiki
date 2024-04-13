@@ -1,4 +1,4 @@
-= Vimwiki =
+= Vimwiki ee =
 
 [[page 1|teste desc]]
 
