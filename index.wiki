@@ -10,7 +10,7 @@ this is _italic_
 
 :docs:
 
-Here we have the vimwiki `:help`, light and dark
+<span style="background:#d65d0e;">Here we have the vimwiki `:help`, light and dark</span>
 
 [[local:vimwiki.txt.breve.htm|Vimwiki documentation]] |
 [[local:vimwiki.txt.dark.htm|dark]]
