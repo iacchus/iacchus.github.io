@@ -1,3 +1,16 @@
 = 'Quel' vs 'quello' =
 
-soon...
+
+If you have a masculine noun, the definite article (in singular) is either *il* or *l'* or *lo*. *L'* if the noun begins with a vowel (e.g. *l'aeromobile*), and *lo* if it begins with:
+
+* s + consonant (e.g. *lo studente*)
+* z (e.g. *lo zio*)
+* y (e.g. *lo yogurt*)
+* ps (e.g. *lo psicologo*)
+* gn (e.g. *lo gnomo*)
+* pn (e.g. *lo pneumatico*)
+
+For the rest (the majority of nouns): *il*. Plural form of *il* is *i*, and plural form of *l'* and *lo* is *gli*.
+
+If you have a feminine noun, it's either *la* or *l'*. The same rules, *la* for the majority of nouns and *l'* for those which begin with a vowel (e.g. *l'automobile*). The plural form of both is *le*.
+
