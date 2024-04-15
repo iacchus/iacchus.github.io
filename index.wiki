@@ -1,3 +1,8 @@
 = Vimwiki =
 
+Here we have the vimwiki `:help`, light and dark
+
+[[local:vimwiki.txt.breve.htm|Vimwiki documentation]] |
+[[local:vimwiki.txt.dark.htm|dark]]
+
 [[Le Petit Prince]]
