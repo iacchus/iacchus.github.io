@@ -21,3 +21,18 @@ lo ione, lo iodio
 
 And x. 
 lo xilofono, lo xilema
+
+----
+
+Lo
+
+| case          | e.g.            |
+|---------------|-----------------|
+| i + vowel     | *lo ione*       |
+| s + consonant | *lo studente*   |
+| x             | *lo xilofono*   |
+| y             | *lo yogurt*     |
+| z             | *lo zio         |
+| gn            | *lo gnomo*      |
+| pn            | *lo pneumatico* |
+| ps            | *lo psicologo*  |
