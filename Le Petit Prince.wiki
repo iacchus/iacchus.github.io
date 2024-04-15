@@ -5,6 +5,8 @@
 Published 1943
 ----
 
+%date
+
 * Dédicace
 * Premier Chapitre
 
