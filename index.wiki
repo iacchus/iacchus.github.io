@@ -6,10 +6,10 @@ Here we have the vimwiki `:help`, light and dark
 
 == French ==
 
-[[Le Petit Prince]]
+[[le-petit-prince|Le Petit Prince]]
 
 == Italian ==
 
-[['Quel' vs 'quello']]
+[[quel-vs-quello|'Quel' vs 'quello']]
 
 
