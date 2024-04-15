@@ -32,7 +32,7 @@ Lo
 | s + consonant | *lo studente*   |
 | x             | *lo xilofono*   |
 | y             | *lo yogurt*     |
-| z             | *lo zio         |
+| z             | *lo zio*        |
 | gn            | *lo gnomo*      |
 | pn            | *lo pneumatico* |
 | ps            | *lo psicologo*  |
