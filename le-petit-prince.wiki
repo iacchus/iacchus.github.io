@@ -1,11 +1,49 @@
 = Le Petit Prince =
 = by =
 = Antoine de Saint-Exupéry =
-----
-Published 1943
+
 ----
 
-%date
+Published 1943
+
+----
 
 * Dédicace
 * Premier Chapitre
+* Chapitre II
+* Chapitre III
+* Chapitre IV
+* Chapitre V
+* Chapitre VI
+* Chapitre VII
+* Chapitre VIII
+* Chapitre IX
+* Chapitre X
+* Chapitre XI
+* Chapitre XII
+* Chapitre XIII
+* Chapitre XIV
+* Chapitre XV
+* Chapitre XVI
+* Chapitre XVII
+* Chapitre XVIII
+* Chapitre XIX
+* Chapitre XX
+* Chapitre XXI
+* Chapitre XXII
+* Chapitre XXIII
+* Chapitre XXIV
+* Chapitre XXV
+* Chapitre XXVI
+* Chapitre XXVII
+
+----
+
+== Dédicace ==
+
+  === A LÉON WERTH. ===
+
+Je demande pardon aux enfants d'avoir dédié ce livre à une grande personne. J'ai une excuse sérieuse: cette grande personne est le meilleur ami que j'ai au monde. J'ai une autre excuse: cette grande personne peut tout comprendre, même les livres pour enfants. J'ai une troisième excuse: cette grande personne habite la France où elle a faim et froid. Elle a bien besoin d'être consolée. Si toutes ces excuses ne suffisent pas, je veux bien dédier ce livre à l'enfant qu'a été autrefois cette grande personne. Toutes les grandes personnes ont d'abord été des enfants. (Mais peu d'entre elles s'en souviennent.) Je corrige donc ma dédicace:
+
+  === A LÉON WERTH ===
+  === QUAND IL ÉTAIT PETIT GARÇON ===
