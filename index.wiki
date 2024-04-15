@@ -1,10 +1,5 @@
 = Vimwiki =
 
-[[page 1|teste desc]]
-
-this is *ok*
-
-this is _italic_
 
 == header 2 ==
 
@@ -16,3 +11,5 @@ this is _italic_
 [[local:vimwiki.txt.dark.htm|dark]]
 
 testing .tpl k
+
+[[Le Petit Prince]]
