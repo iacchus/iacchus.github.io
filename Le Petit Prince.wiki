@@ -1,10 +1,3 @@
-= Contents =
-  - [[#Le Petit Prince]]
-  - [[#by]]
-  - [[#Antoine de Saint-Exupéry]]
-    - [[#= Antoine de Saint-Exupéry =]]
-    - [[#Published 1943]]
-
 = Le Petit Prince =
 = by =
 = Antoine de Saint-Exupéry =
@@ -16,15 +9,3 @@ Published 1943
 
 * Dédicace
 * Premier Chapitre
-
-
-| hello | how are you |   |
-|-------|-------------|---|
-|       |             |   |
-|       |             |   |
-|       |             |   |
-
-[[index]]
-
-
-

@@ -1,15 +1,3 @@
 = Vimwiki =
 
-
-== header 2 ==
-
-:docs:
-
-<span style="color:#d65d0e;">Here we have the vimwiki `:help`, light and dark</span>
-
-[[local:vimwiki.txt.breve.htm|Vimwiki documentation]] |
-[[local:vimwiki.txt.dark.htm|dark]]
-
-testing .tpl k
-
 [[Le Petit Prince]]
