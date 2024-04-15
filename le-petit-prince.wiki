@@ -1,8 +1,8 @@
   = Le Petit Prince =
   
-<span style='display: inline-block; margin: 0 auto;'>*by*</span>
+<span style='display: inline-block; text-align: center;'>*by*</span>
 
-<span style='display: inline-block; margin: 0 auto;'>*Antoine de Saint-Exupéry*</span>
+<span style='display: inline-block; text-align: center;'>*Antoine de Saint-Exupéry*</span>
 
 ----
 
@@ -10,7 +10,7 @@ Published 1943
 
 ----
 
-* [[#Dédicace]]
+* [[#Dédicace|Dédicace]]
 * Premier Chapitre
 * Chapitre II
 * Chapitre III
