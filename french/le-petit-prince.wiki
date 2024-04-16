@@ -680,11 +680,9 @@ Les grandes personnes sont décidément bien bizarres, se dit-il simplement en l
 
 *CHAPITRE XII*
 
-{{/images/le-petit-prince/0300771h-03.gif||class="center"|image}}
-
 La planète suivante était habitée par un buveur. Cette visite fut très courte mais elle plongea le petit prince dans une grande mélancolie:
 
-
+{{/images/le-petit-prince/0300771h-03.gif||class="center"|image}}
 
 -Que fais-tu là? dit-il au buveur, qu'il trouva installé en silence devant une collection de bouteilles vides et une collection de bouteilles pleines.
 
@@ -710,16 +708,15 @@ Les grandes personnes sont décidément très très bizarres, se disait-il en lu
 
 *CHAPITRE XIII*
 
-
 La quatrième planète était celle du businessman. Cet homme était si occupé qu'il ne leva même pas la tête à l'arrivée du petit prince.
 
-
+{{/images/le-petit-prince/0300771h-04.gif||class="center"|image}}
 
 -Bonjour, lui dit celui-ci. Votre cigarette est éteinte.
 
 -Trois et deux font cinq. Cinq et sept douze. Douze et trois quinze. Bonjour. Quinze et sept vingt-deux. Vingt-deux et six vingt-huit. Pas de temps de la rallumer. Vingt-six et cinq trente et un. Ouf! Ça fait donc cinq cent un millions six cent vingt-deux mille sept cent trente et un.
 
-
+{{/images/le-petit-prince/0300771h-44.jpg||class="center"|image}}
 
 -Cinq cents millions de quoi?
 
@@ -829,7 +826,7 @@ La cinquième planète était très curieuse. C'était la plus petite de toutes.
 
 - Peut-être bien que cet homme est absurde. Cependant il est moins absurde que le roi, que le vaniteux, que le businessman et que le buveur. Au moins son travail a-t-il un sens. Quand il allume son réverbère, c'est comme s'il faisait naître une étoile de plus, ou une fleur. Quand il éteint son réverbère ça endort la fleur ou l'étoile. C'est une occupation très jolie. C'est véritablement utile puisque c'est joli.
 
-
+{{/images/le-petit-prince/0300771h-28.jpg||class="center"|image}}
 
 Lorsqu'il aborda la planète il salua respectueusement l'allumeur:
 
@@ -909,7 +906,7 @@ Ce que le petit prince n'osait pas s'avouer, c'est qu'il regrettait cette planè
 
 La sixième planète était une planète dix fois plus vaste. Elle était habitée par un vieux Monsieur qui écrivait d'énormes livres.
 
-
+{{/images/le-petit-prince/0300771h-29.jpg||class="center"|image}}
 
 -Tiens! voilà un explorateur! s'écria-t-il, quand il aperçut le petit prince.
 
@@ -1027,7 +1024,7 @@ Quand on veut faire de l'esprit, il arrive que l'on mente un peu. Je n'ai pas é
 
 Les grandes personnes, bien sûr, ne vous croiront pas. Elles s'imaginent tenir beaucoup de place. Elles se voient importantes comme des baobabs. Vous leur conseillerez donc de faire le calcul. Elles adorent les chiffres: ça leur plaira. Mais ne perdez pas votre temps à ce pensum. C'est inutile. Vous avez confiance en moi.
 
-
+{{/images/le-petit-prince/0300771h-30.jpg||class="center"|image}}
 
 Le petit prince, une fois sur Terre, fut donc bien surpris de ne voir personne. Il avait déjà peur de s'être trompé de planète, quand un anneau couleur de lune remua dans le sable.
 
@@ -1061,7 +1058,7 @@ Et ils se turent.
 
 Le petit prince le regarda longtemps:
 
-
+{{/images/le-petit-prince/0300771h-31.jpg||class="center"|image}}
 
 -Tu es une drôle de bête, lui dit-il enfin, mince comme un doigt...
 
@@ -1101,7 +1098,7 @@ Le petit prince traversa le désert et ne rencontra qu'une fleur. Une fleur à t
 
 La fleur, un jour, avait vu passer une caravane:
 
-
+{{/images/le-petit-prince/0300771h-32.jpg||class="center"|image}}
 
 -Les hommes? Il en existe, je crois, six ou sept. Je les ai aperçus il y a des années. Mais on ne sait jamais où les trouver. Le vent les promène. Ils manquent de racines, ça les gêne beaucoup.
 
@@ -1129,7 +1126,7 @@ Le petit prince fit l'ascension d'une haute montagne. Les seules montagnes qu'il
 
 "Quelle drôle de planète! pensa-t-il alors. Elle est toute sèche, et toute pointue et toute salée.
 
-
+{{/images/le-petit-prince/0300771h-33.jpg||class="center"|image}}
 
 Et les hommes manquent d'imagination. Ils répètent ce qu'on leur dit...Chez moi j'avais une fleur: elle parlait toujours la première..."
 
@@ -1147,7 +1144,7 @@ C'était un jardin fleuri de roses.
 
 Le petit prince les regarda. Elles ressemblaient toutes à sa fleur.
 
-
+{{/images/le-petit-prince/0300771h-34.jpg||class="center"|image}}
 
 -Qui êtes-vous? leur demanda-t-il, stupéfait.
 
@@ -1171,185 +1168,129 @@ C'est alors qu'apparut le renard.
 
 -Bonjour, répondit poliment le petit prince, qui se retourna mais ne vit rien.
 
+{{/images/le-petit-prince/0300771h-35.jpg||class="center"|image}}
 
 -Je suis là, dit la voix, sous le pommier.
 
-
 -Qui es-tu? dit le petit prince. Tu es bien joli...
-
 
 -Je suis un renard, dit le renard.
 
-
 -Viens jouer avec moi, lui proposa le petit prince. Je suis tellement triste...
-
 
 -Je ne puis pas jouer avec toi, dit le renard. Je ne suis pas apprivoisé.
 
-
 -Ah! Pardon, fit le petit prince.
-
 
 Mais après réflexion, il ajouta:
 
-
 -Qu'est-ce que signifie "apprivoiser"?
-
 
 -Tu n'es pas d'ici, dit le renard, que cherches-tu?
 
-
 -Je cherche les hommes, dit le petit prince. Qu'est-ce que signifie "apprivoiser"?
-
 
 -Les hommes, dit le renard, ils ont des fusils et ils chassent. C'est bien gênant! Ils élèvent aussi des poules. C'est leur seul intérêt. Tu cherches des poules?
 
-
-
+{{/images/le-petit-prince/0300771h-36.jpg||class="center"|image}}
 
 -Non, dit le petit prince. Je cherche des amis. Qu'est-ce que signifie "apprivoiser"?
 
-
 -C'est une chose trop oubliée, dit le renard. Ça signifie "Créer des liens..."
-
 
 -Créer des liens?
 
-
 -Bien sûr, dit le renard. Tu n'es encore pour moi qu'un petit garçon tout semblable à cent mille petits garçons. Et je n'ai pas besoin de toi. Et tu n'a pas besoin de moi non plus. Je ne suis pour toi qu'un renard semblable à cent mille renards. Mais, si tu m'apprivoises, nous aurons besoin l'un de l'autre. Tu seras pour moi unique au monde. Je serai pour toi unique au monde...
-
 
 -Je commence à comprendre, dit le petit prince. Il y a une fleur...je crois qu'elle m'a apprivoisé...
 
-
 -C'est possible, dit le renard. On voit sur la Terre toutes sortes de choses...
-
 
 -Oh! ce n'est pas sur la Terre, dit le petit prince. Le renard parut très intrigué:
 
-
 -Sur une autre planète ?
-
 
 -Oui.
 
-
 -Il y a des chasseurs sur cette planète-là ?
 
-
 -Non.
-
 
 -Ça, c'est intéressant! Et des poules ?
 
-
 -Non.
-
 
 -Rien n'est parfait, soupira le renard.
 
-
 Mais le renard revint à son idée:
-
 
 -Ma vie est monotone. Je chasse les poules, les hommes me chassent. Toutes les poules se ressemblent, et tous les hommes se ressemblent. Je m'ennuie donc un peu. Mais si tu m'apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m'appellera hors du terrier, comme une musique. Et puis regarde! Tu vois, là-bas, les champs de blé? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste! Mais tu as des cheveux couleur d'or. Alors ce sera merveilleux quand tu m'aura apprivoisé! Le blé, qui est doré, me fera souvenir de toi. Et j'aimerai le bruit du vent dans le blé...
 
-
 Le renard se tut et regarda longtemps le petit prince:
-
 
 -S'il te plaît...apprivoise-moi! dit-il.
 
-
 -Je veux bien, répondit le petit prince, mais je n'ai pas beaucoup de temps. J'ai des amis à découvrir et beaucoup de choses à connaître.
-
 
 -On ne connaît que les choses que l'on apprivoise, dit le renard. Les hommes n'ont plus le temps de rien connaître. Ils achètent des choses toutes faites chez les marchands. Mais comme il n'existe point de marchands d'amis, les hommes n'ont plus d'amis. Si tu veux un ami, apprivoise-moi!
 
-
 -Que faut-il faire? dit le petit prince.
-
 
 -Il faut être très patient, répondit le renard. Tu t'assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'oeil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t'asseoir un peu plus près...
 
-
 Le lendemain revint le petit prince.
 
-
+{{/images/le-petit-prince/0300771h-37.jpg||class="center"|image}}
 
 -Il eût mieux valu revenir à la même heure, dit le renard. Si tu viens, par exemple, à quatre heures de l'après-midi, dès trois heures je commencerai d'être heureux. Plus l'heure avancera, plus je me sentirai heureux. à quatre heures, déjà, je m'agiterai et m'inquiéterai; je découvrira le prix du bonheur! Mais si tu viens n'importe quand, je ne saurai jamais à quelle heure m'habiller le coeur...il faut des rites.
 
-
 -Qu'est-ce qu'un rite? dit le petit prince.
-
 
 -C'est aussi quelque chose de trop oublié, dit le renard. C'est ce qui fait qu'un jour est différent des autres jours, une heure, des autres heures. Il y a un rite, par exemple, chez mes chasseurs. Ils dansent le jeudi avec les filles du village. Alors le jeudi est jour merveilleux! Je vais me promener jusqu'à la vigne. Si les chasseurs dansaient n'importe quand, les jours se ressembleraient tous, et je n'aurais point de vacances.
 
-
 Ainsi le petit prince apprivoisa le renard. Et quand l'heure du départ fut proche:
-
 
 -Ah! dit le renard...je pleurerai.
 
-
 -C'est ta faute, dit le petit prince, je ne te souhaitais point de mal, mais tu as voulu que je t'apprivoise...
 
-
 -Bien sûr, dit le renard.
-
 
 -Mais tu vas pleurer! dit le petit prince.
 
-
 -Bien sûr, dit le renard.
-
 
 -Alors tu n'y gagnes rien!
 
-
 -J'y gagne, dit le renard, à cause de la couleur du blé.
-
 
 Puis il ajouta:
 
-
 -Va revoir les roses. Tu comprendras que la tienne est unique au monde. Tu reviendras me dire adieu, et je te ferai cadeau d'un secret.
-
 
 Le petit prince s'en fut revoir les roses.
 
-
 -Vous n'êtes pas du tout semblables à ma rose, vous n'êtes rien encore, leur dit-il. Personne ne vous a apprivoisé et vous n'avez apprivoisé personne. Vous êtes comme était mon renard. Ce n'était qu'un renard semblable à cent mille autres. Mais j'en ai fait mon ami, et il est maintenant unique au monde.
-
 
 Et les roses étaient gênées.
 
-
 -Vous êtes belles, mais vous êtes vides, leur dit-il encore. On ne peut pas mourir pour vous. Bien sûr, ma rose à moi, un passant ordinaire croirait qu'elle vous ressemble. Mais à elle seule elle est plus importante que vous toutes, puisque c'est elle que j'ai arrosée. Puisque c'est elle que j'ai mise sous globe. Puisque c'est elle que j'ai abritée par le paravent. Puisque c'est elle dont j'ai tué les chenilles (sauf les deux ou trois pour les papillons). Puisque c'est elle que j'ai écoutée se plaindre, ou se vanter, ou même quelquefois se taire. Puisque c'est ma rose.
-
 
 Et il revint vers le renard:
 
-
-
+{{/images/le-petit-prince/0300771h-43.jpg||class="center"|image}}
 
 -Adieu, dit-il...
 
-
 -Adieu, dit le renard. Voici mon secret. Il est très simple : on ne voit bien qu'avec le coeur. L'essentiel est invisible pour les yeux.
-
 
 -L'essentiel est invisible pour les yeux, répéta le petit prince, afin de se souvenir.
 
-
 -C'est le temps que tu a perdu pour ta rose qui fait ta rose si importante.
-
 
 -C'est le temps que j'ai perdu pour ma rose...fit le petit prince, afin de se souvenir.
 
-
 -Les hommes on oublié cette vérité, dit le renard. Mais tu ne dois pas l'oublier. Tu deviens responsable pour toujours de ce que tu as apprivoisé. Tu es responsable de ta rose...
-
 
 -Je suis responsable de ma rose...répéta le petit prince, afin de se souvenir.
 
@@ -1487,7 +1428,7 @@ Le puits que nous avions atteint ne ressemblait pas aux autres puits sahariens. 
 
 Il rit, toucha la corde, fit jouer la poulie. Et la poulie gémit comme une vieille girouette quand le vent a longtemps dormi.
 
-
+{{/images/le-petit-prince/0300771h-38.jpg||class="center"|image}}
 
 -Tu entends, dit le petit prince, nous réveillons ce puits et il chante...
 
@@ -1599,7 +1540,7 @@ Je fis halte, le coeur serré, mais je ne comprenais toujours pas.
 
 -Maintenant va-t'en, dit-il...je veux redescendre!
 
-
+{{/images/le-petit-prince/0300771h-39.jpg||class="center"|image}}
 
 Alors j'abaissai moi-même les yeux vers le pied du mur, et je fis un bond! Il était là, dressé vers le petit prince, un de ces serpents jaunes qui vous exécutent en trente secondes. Tout en fouillant ma poche pour en tirer mon révolver, je pris le pas de course, mais, au bruit que je fis, le serpent se laissa doucement couler dans le sable, comme un jet d'eau qui meurt, et, sans trop se presser, se faufila entre les pierres avec un léger bruit de métal.
 
@@ -1737,11 +1678,11 @@ Et il se tut aussi, parce qu'il pleurait...
 
 -C'est là. Laisse moi faire un pas tout seul.
 
-
+{{/images/le-petit-prince/0300771h-40.jpg||class="center"|image}}
 
 Et il s'assit parce qu'il avait peur.
 
-
+{{/images/le-petit-prince/0300771h-41.jpg||class="center"|image}}
 
 Il dit encore:
 
@@ -1769,7 +1710,7 @@ Tantôt je me dis: "Sûrement non! Le petit prince enferme sa fleur toutes les n
 
 Tantôt je me dis: "On est distrait une fois ou l'autre, et ça suffit! Il a oublié, un soir, le globe de verre, ou bien le mouton est sorti sans bruit pendant la nuit..." Alors les grelots se changent tous en larmes!...
 
-
+{{/images/le-petit-prince/0300771h-45.jpg||class="center"|image}}
 
 C'est là un bien grand mystère. Pour vous qui aimez aussi le petit prince, comme pour moi, rien de l'univers n'est semblable si quelque part, on ne sait où, un mouton que nous ne connaissons pas a, oui ou non, mangé une rose...
 
@@ -1779,11 +1720,10 @@ Et aucune grande personne ne comprendra jamais que ça a tellement d'importance!
 
 Ça c'est, pour moi, le plus beau et le plus triste paysage du monde. C'est le même paysage que celui de la page précédente, mais je l'ai dessiné une fois encore pour bien vous le montrer. C'est ici que le petit prince a apparu sur terre, puis disparu.
 
-
+{{/images/le-petit-prince/0300771h-42.jpg||class="center"|image}}
 
 Regardez attentivement ce paysage afin d'être sûrs de le reconnaître, si vous voyagez un jour en Afrique, dans le désert. Et, s'il vous arrive de passer par là, je vous en supplie, ne vous pressez pas, attendez un peu juste sous l'étoile! Si alors un enfant vient à vous, s'il rit, s'il a des cheveux d'or, s'il ne répond pas quand on l'interroge, vous devinerez bien qui il est. Alors soyez gentils! Ne me laissez pas tellement triste: écrivez-moi vite qu'il est revenu...
 
 THE END
-
 
 This site is full of FREE ebooks - Project Gutenberg Australia
