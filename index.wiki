@@ -10,6 +10,10 @@ Here we have the vimwiki `:help`, light and dark
 
 [[le-petit-prince|Le Petit Prince]]
 
+== German ==
+
+What is the correct way to denote a quotation in German?|https://german.stackexchange.com/questions/117/what-is-the-correct-way-to-denote-a-quotation-in-german
+
 == Italian ==
 
 [[quel-vs-quello|'Quel' vs 'quello']]
