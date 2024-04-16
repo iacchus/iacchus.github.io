@@ -124,7 +124,7 @@ Il regarda attentivement, puis:
 
 Je dessinai:
 
-{{/images/le-petit-prince/0300771h-10.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-01.gif||class="center"|image}}
 
 Mon ami sourit gentiment, avec indulgence:
 
@@ -132,7 +132,7 @@ Mon ami sourit gentiment, avec indulgence:
 
 Je refis donc encore mon dessin: Mais il fut refusé, comme les précédents:
 
-{{/images/le-petit-prince/0300771h-11.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-10.jpg||class="center"|image}}
 
 -Celui-là est trop vieux. Je veux un mouton qui vive longtemps.
 
@@ -142,7 +142,7 @@ Et je lançai:
 
 -Ça c'est la caisse. Le mouton que tu veux est dedans.
 
-{{/images/le-petit-prince/0300771h-12.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-11.jpg||class="center"|image}}
 
 Mais je fus bien surpris de voir s'illuminer le visage de mon jeune juge:
 
@@ -164,7 +164,7 @@ Et c'est ainsi que je fis la connaissance du petit prince.
 
 *CHAPITRE III*
 
-{{/images/le-petit-prince/0300771h-13.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-12.jpg||class="center"|image}}
 
 Il me fallut longtemps pour comprendre d'où il venait. Le petit prince, qui me posait beaucoup de questions, ne semblait jamais entendre les miennes. Ce sont des mots prononcés par hasard qui, peu à peu, m'ont tout révélé. Ainsi, quand il aperçu pour la première fois mon avion (je ne dessinerai pas mon avion, c'est un dessin beaucoup trop compliqué pour moi) il me demanda:
 
@@ -234,21 +234,21 @@ J'avais ainsi appris une seconde chose très importante: C'est que sa planète d
 
 J'ai de sérieuses raisons de croire que la planète d'ou venait le petit prince est l'astéroïde B 612.
 
-{{/images/le-petit-prince/0300771h-14.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-13.jpg||class="center"|image}}
 
 Cet astéroïde n'a été aperçu qu'une fois au télescope, en 1909, par un astronome turc.
 
-{{/images/le-petit-prince/0300771h-15.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-14.jpg||class="center"|image}}
 
 Il avait fait alors une grande démonstration de sa découverte à un Congrès International d'Astronomie.
 
 Mais personne ne l'avait cru à cause de son costume. Les grandes personnes sont comme ça.
 
-{{/images/le-petit-prince/0300771h-16.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-15.jpg||class="center"|image}}
 
 Heureusement pour la réputation de l'astéroïde B 612, un dictateur turc imposa à son peuple, sous peine de mort, de s'habiller à l'européenne. L'astronome refit sa démonstration en 1920, dans un habit très élégant. Et cette fois-ci tout le monde fut de son avis.
 
-{{/images/le-petit-prince/0300771h-17.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-16.jpg||class="center"|image}}
 
 Si je vous ai raconté ces détails sur l'astéroïde B 612 et si je vous ai confié son numéro, c'est à cause des grandes personnes. Les grandes personnes aiment les chiffres. Quand vous leur parlez d'un nouvel ami, elles ne vous questionnent jamais sur l'essentiel. Elles ne vous disent jamais: "Quel est le son de sa voix? Quels sont les jeux qu'il préfère? Est-ce qu'il collectionne les papillons?" Elles vous demandent: "Quel âge a-t-il? Combien a-t-il de frères? Combien pèse-t-il? Combien gagne son père?" Alors seulement elles croient le connaître. Si vous dites aux grandes personnes: "J'ai vu une belle maison en briques roses, avec des géraniums aux fenêtres et des colombes sur le toit..." elles ne parviennent pas à s'imaginer cette maison. Il faut leur dire: "J'ai vu une maison de cent mille francs." Alors elles s'écrient: "Comme c'est joli!"
 
@@ -274,7 +274,7 @@ Cette fois-ci encore ce fut grâce au mouton, car brusquement le petit prince m'
 
 -Ah! Je suis content!
 
-{{/images/le-petit-prince/0300771h-18.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-17.jpg||class="center"|image}}
 
 Je ne compris pas pourquoi il était si important que les moutons mangeassent les arbustes. Mais le petit prince ajouta:
 
@@ -298,13 +298,15 @@ Et en effet, sur la planète du petit prince, il y avait comme sur toutes les pl
 
 "C'est une question de discipline, me disait plus tard le petit prince. Quand on a terminé sa toilette du matin, il faut faire soigneusement la toilette de la planète. Il faut s'astreindre régulièrement à arracher les baobabs dès qu'on les distingue d'avec les rosiers auxquels ils ressemblent beaucoup quand ils sont très jeunes. C'est un travail très ennuyeux, mais très facile."
 
-{{/images/le-petit-prince/0300771h-19.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-18.jpg||class="center"|image}}
 
 Et un jour il me conseilla de m'appliquer à réussir un beau dessin, pour bien faire entrer ça dans la tête des enfants de chez moi. "S'ils voyagent un jour, me disait-il, ça pourra leur servir. Il est quelquefois sans inconvénient de remettre à plus tard son travail. Mais, s'il s'agit des baobabs, c'est toujours une catastrophe. J'ai connu une planète, habitée par un paresseux. Il avait négligé trois arbustes..."
 
-{{/images/le-petit-prince/0300771h-20.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-46.jpg||class="center"|image}}
 
 Et, sur les indications du petit prince, j'ai dessiné cette planète-là. Je n'aime guère prendre le ton d'un moraliste. Mais le danger des baobabs est si peu connu, et les risques courus par celui qui s'égarerait dans un astéroïde sont si considérables, que, pour une fois, je fais exception à ma réserve. Je dis: "Enfants! Faites attention aux baobabs!" C'est pour avertir mes amis du un danger qu'ils frôlaient depuis longtemps, comme moi-même, sans le connaître, que j'ai tant travaillé ce dessin-là. La leçon que je donnais en valait la peine. Vous vous demanderez peut-être: Pourquoi n'y a-t-il pas, dans ce livre, d'autres dessins aussi grandioses que le dessin des baobabs? La réponse est bien simple: J'ai essayé mais je n'ai pas pu réussir. Quand j'ai dessiné les baobabs j'ai été animé par le sentiment de l'urgence.
+
+{{/images/le-petit-prince/0300771h-00.jpg||class="center"|image}}
 
 ----
 
@@ -394,7 +396,7 @@ Le petit prince était maintenant tout pâle de colère.
 
 -Il y a des millions d'années que les fleurs fabriquent des épines. Il y a des millions d'années que les moutons mangent quand même les fleurs. Et ce n'est pas sérieux de chercher à comprendre pourquoi elles se donnent tant de mal pour se fabriquer des épines qui ne servent jamais à rien? Ce n'est pas important la guerre des moutons et des fleurs? Ce n'est pas plus sérieux et plus important que les additions d'un gros Monsieur rouge? Et si je connais, moi, une fleur unique au monde, qui n'existe nulle part, sauf dans ma planète, et qu'un petit mouton peut anéantir d'un seul coup, comme ça, un matin, sans se rendre compte de ce qu'il fait, ce n'est pas important ça!
 
-{{/images/le-petit-prince/0300771h-21.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-19.jpg||class="center"|image}}
 
 Il rougit, puis reprit:
 
@@ -408,7 +410,7 @@ Il ne put rien dire de plus. Il éclata brusquement en sanglots. La nuit était 
 
 J'appris bien vite à mieux connaître cette fleur. Il y avait toujours eu, sur la planète du petit prince, des fleurs très simples, ornées d'un seul rang de pétales, et qui ne tenaient point de place, et qui ne dérangeaient personne. Elles apparaissaient un matin dans l'herbe, et puis elles s'éteignaient le soir. Mais celle-là avait germé un jour, d'une graine apportée d'on ne sait où, et le petit prince avait surveillé de très près cette brindille qui ne ressemblait pas aux autres brindilles. Ça pouvait être un nouveau genre de baobab. Mais l'arbuste cessa vite de croître, et commença de préparer une fleur. Le petit prince, qui assistait à l'installation d'un bouton énorme, sentait bien qu'il en sortirait une apparition miraculeuse, mais la fleur n'en finissait pas de se préparer à être belle, à l'abri de sa chambre verte. Elle choisissait avec soin ses couleurs. Elle s'habillait lentement, elle ajustait un à un ses pétales. Elle ne voulait pas sortir toute fripée comme les coquelicots. Elle ne voulait apparaître que dans le plein rayonnement de sa beauté. Eh! oui. Elle était très coquette! Sa toilette mystérieuse avait donc duré des jours et des jours. Et puis voici qu'un matin, justement à l'heure du lever du soleil, elle s'était montrée.
 
-{{/images/le-petit-prince/0300771h-22.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-20.jpg||class="center"|image}}
 
 Et elle, qui avait travaillé avec tant de précision, dit en bâillant:
 
@@ -426,13 +428,13 @@ Le petit prince devina bien qu'elle n'était pas trop modeste, mais elle était 
 
 Et le petit prince, tout confus, ayant été chercher un arrosoir d'eau fraîche, avait servi la fleur.
 
-{{/images/le-petit-prince/0300771h-23.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-21.jpg||class="center"|image}}
 
 Ainsi l'avait-elle bien vite tourmenté par sa vanité un peu ombrageuse. Un jour, par exemple, parlant de ses quatre épines, elle avait dit au petit prince:
 
 -Ils peuvent venir, les tigres, avec leurs griffes!
 
-{{/images/le-petit-prince/0300771h-24.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-22.jpg||class="center"|image}}
 
 -Il n'y a pas de tigres sur ma planète, avait objecté le petit prince, et puis les tigres ne mangent pas d'herbe.
 
@@ -442,13 +444,13 @@ Ainsi l'avait-elle bien vite tourmenté par sa vanité un peu ombrageuse. Un jou
 
 -Je ne crains rien des tigres, mais j'ai horreur des courants d'air. Vous n'auriez pas un paravent?
 
-{{/images/le-petit-prince/0300771h-25.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-02.gif||class="center"|image}}
 
 "Horreur des courants d'air...ce n'est pas de chance, pour une plante, avait remarqué le petit prince. Cette fleur est bien compliquée..."
 
 -Le soir vous me mettrez sous globe. Il fait très froid chez vous. C'est mal installé. Là d'ou je viens...
 
-{{/images/le-petit-prince/0300771h-26.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-23.jpg||class="center"|image}}
 
 Mais elle s'était interrompue. Elle était venue sous forme de graine. Elle n'avait rien pu connaître des autres mondes. Humiliée de s'être laissé surprendre à préparer un mensonge aussi naïf, elle avait toussé deux ou trois fois, pour mettre le petit prince dans son tort:
 
@@ -470,14 +472,13 @@ Il me confia encore:
 
 *CHAPITRE IX*
 
-{{/images/le-petit-prince/0300771h-27.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-24.jpg||class="center"|image}}
 
 Je crois qu'il profita, pour son évasion, d'une migration d'oiseaux sauvages. Au matin du départ il mit sa planète bien en ordre. Il ramona soigneusement ses volcans en activité. Il possédait deux volcans en activité. Et c'était bien commode pour faire chauffer le petit déjeuner du matin. Il possédait aussi un volcan éteint. Mais, comme il disait, "On ne sait jamais!" Il ramona donc également le volcan éteint. S'ils sont bien ramonés, les volcans brûlent doucement et régulièrement, sans éruptions. Les éruptions volcaniques sont comme des feux de cheminée. Evidemment sur notre terre nous sommes beaucoup trop petits pour ramoner nos volcans. C'est pourquoi ils nous causent des tas d'ennuis.
 
 Le petit prince arracha aussi, avec un peu de mélancolie, les dernières pousses de baobabs. Il croyait ne jamais devoir revenir. Mais tout ces travaux familiers lui parurent, ce matin-là, extrêmement doux. Et, quand il arrosa une dernière fois la fleur, et se prépara à la mettre à l'abri sous son globe, il se découvrit l'envie de pleurer.
 
-
-{{/images/le-petit-prince/0300771h-28.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-25.jpg||class="center"|image}}
 
 -Adieu, dit-il à la fleur.
 
@@ -515,7 +516,7 @@ Il se trouvait dans la région des astéroïdes 325, 326, 327, 328, 329 et 330. 
 
 La première était habitée par un roi. Le roi siégeait, habillé de pourpre et d'hermine, sur un trône très simple et cependant majestueux.
 
-{{/images/le-petit-prince/0300771h-29.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-26.jpg||class="center"|image}}
 
 -Ah! Voilà un sujet, s'écria le roi quand il aperçut le petit prince.
 
@@ -635,7 +636,7 @@ Les grandes personnes sont bien étranges, se dit le petit prince, en lui-même,
 
 La seconde planète était habitée par un vaniteux:
 
-{{/images/le-petit-prince/0300771h-30.jpg||class="center"|image}}
+{{/images/le-petit-prince/0300771h-27.jpg||class="center"|image}}
 
 -Ah! Ah! Voilà la visite d'un admirateur! s'écria de loin le vaniteux dès qu'il aperçut le petit prince.
 
@@ -679,6 +680,7 @@ Les grandes personnes sont décidément bien bizarres, se dit-il simplement en l
 
 *CHAPITRE XII*
 
+{{/images/le-petit-prince/0300771h-03.gif||class="center"|image}}
 
 La planète suivante était habitée par un buveur. Cette visite fut très courte mais elle plongea le petit prince dans une grande mélancolie:
 
