@@ -1,5 +1,7 @@
   = Le Petit Prince =
   
+%title Le Petit Prince
+
 <span style='display: block; text-align: center;'>*by*</span>
 
 <span style='display: block; text-align: center;'>*Antoine de Saint-Exupéry*</span>
