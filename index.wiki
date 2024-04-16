@@ -37,3 +37,5 @@ https://gutenberg.net.au/
 [[https://www.gutenberg.org/cache/epub/17805/pg17805-images.html|Lezioni e Racconti per i Bambini]] by Ida Baccini
 
 [[https://www.gutenberg.org/ebooks/6342|Kritik der reinen Vernunft]] by Immanuel Kant
+
+[[https://www.gutenberg.org/ebooks/4791|Voyage au Centre de la Terre]] by Jules Verne
