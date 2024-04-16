@@ -8,15 +8,15 @@ Here we have the vimwiki `:help`, light and dark
 
 == French ==
 
-[[le-petit-prince|Le Petit Prince]]
+[[french/le-petit-prince|Le Petit Prince]]
 
 == German ==
 
-[[https://german.stackexchange.com/questions/117/what-is-the-correct-way-to-denote-a-quotation-in-german|What is the correct way to denote a quotation in German?]]
+[[https://german.stackexchange.com/questions/117/what-is-the-correct-way-to-denote-a-quotation-in-german|What is the correct way to denote a quotation in German?]] 🗯
 
 == Italian ==
 
-[[quel-vs-quello|'Quel' vs 'quello']]
+[[italian/quel-vs-quello|'Quel' vs 'quello']]
 
 [[italian/public-domain-books|Public-domain books]]
 
