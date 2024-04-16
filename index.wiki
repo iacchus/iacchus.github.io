@@ -20,6 +20,10 @@ Here we have the vimwiki `:help`, light and dark
 
 [[italian/public-domain-books|Public-domain books]]
 
+https://italiano-bello.com/en/italian-children-books/
+
+https://thoughtsonpapyrus.com/2022/05/30/italian-childrens-literature/
+
 == Resources ==
 
 [[https://stackexchange.com/sites]]
