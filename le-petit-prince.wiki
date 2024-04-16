@@ -1,8 +1,8 @@
   = Le Petit Prince =
   
-<span style='display: inline-block; text-align: center;'>*by*</span>
+<span style='display: block; text-align: center;'>*by*</span>
 
-<span style='display: inline-block; text-align: center;'>*Antoine de Saint-Exupéry*</span>
+<span style='display: block; text-align: center;'>*Antoine de Saint-Exupéry*</span>
 
 ----
 
