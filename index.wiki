@@ -14,4 +14,9 @@ Here we have the vimwiki `:help`, light and dark
 
 [[quel-vs-quello|'Quel' vs 'quello']]
 
+[[Public-domain-books]]
+
+== Resources ==
+
+[[https://stackexchange.com/sites]]
 
