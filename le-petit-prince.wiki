@@ -13,7 +13,7 @@ Published 1943
 * [[#Dédicace|Dédicace]]
 * [[#PREMIER CHAPITRE|Premier Chapitre]]
 * [[#CHAPITRE II|Chapitre II]]
-* Chapitre III
+* [[CHAPITRE III|Chapitre III]]
 * Chapitre IV
 * Chapitre V
 * Chapitre VI
@@ -82,7 +82,7 @@ Quand j'en rencontrais une qui me paraissait un peu lucide, je faisais l'expéri
 
 ----
 
-CHAPITRE II
+*CHAPITRE II*
 
 J'ai ainsi vécu seul, sans personne avec qui parler véritablement, jusqu'à une panne dans le désert du Sahara, il y a six ans. Quelque chose s'était cassé dans mon moteur. Et comme je n'avais avec moi ni mécanicien, ni passagers, je me préparai à essayer de réussir, tout seul, une réparation difficile. C'était pour moi une question de vie ou de mort. J'avais à peine de l'eau à boire pour huit jours.
 
@@ -160,3 +160,9 @@ Il pencha la tête vers le dessin:
 -Pas si petit que ça...Tiens! Il s'est endormi...
 
 Et c'est ainsi que je fis la connaissance du petit prince.
+
+----
+
+*CHAPITRE III*
+
+----
