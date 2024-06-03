@@ -8,23 +8,11 @@ Here we have the vimwiki `:help`, light and dark
 
 == Languages ==
 
-=== French ===
+[[French]]
 
-[[french/le-petit-prince|Le Petit Prince]]
+[[German]]
 
-=== German ===
-
-[[https://german.stackexchange.com/questions/117/what-is-the-correct-way-to-denote-a-quotation-in-german|What is the correct way to denote a quotation in German?]] 🗯
-
-=== Italian ===
-
-[[italian/quel-vs-quello|'Quel' vs 'quello']]
-
-[[italian/public-domain-books|Public-domain books]]
-
-https://italiano-bello.com/en/italian-children-books/
-
-https://thoughtsonpapyrus.com/2022/05/30/italian-childrens-literature/
+[[Italian]]
 
 == Resources ==
 
@@ -46,4 +34,3 @@ https://gutenberg.net.au/
 
 [[https://www.gutenberg.org/ebooks/54873|Vingt mille lieues sous les mers]] by Jules Verne
 
-<iframe src="https://iacchus.github.io/jupyterlite/repl/index.html" width="100%" height="400" ></iframe>
