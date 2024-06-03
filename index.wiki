@@ -6,15 +6,17 @@ Here we have the vimwiki `:help`, light and dark
 
 [[local:vimwiki.txt.breve.htm|light]] | [[local:vimwiki.txt.dark.htm|dark]]
 
-== French ==
+== Languages ==
+
+=== French ===
 
 [[french/le-petit-prince|Le Petit Prince]]
 
-== German ==
+=== German ===
 
 [[https://german.stackexchange.com/questions/117/what-is-the-correct-way-to-denote-a-quotation-in-german|What is the correct way to denote a quotation in German?]] 🗯
 
-== Italian ==
+=== Italian ===
 
 [[italian/quel-vs-quello|'Quel' vs 'quello']]
 
