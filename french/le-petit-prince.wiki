@@ -1,10 +1,13 @@
-  = Le Petit Prince =
+= Le Petit Prince =
+== O Príncipezinho ==
   
 %title Le Petit Prince
 
 <span style='display: block; text-align: center;'>*by*</span>
+<span style='display: block; text-align: center;'>_*por*_</span>
 
 <span style='display: block; text-align: center;'>*Antoine de Saint-Exupéry*</span>
+<span style='display: block; text-align: center;'>_*Antoine de Saint-Exupéry*_</span>
 
 ----
 
@@ -44,13 +47,18 @@ Published 1943
 ----
 
 *Dédicace*
+_Dedicação_
 
 <span style='display: block; text-align: center;'>*A LÉON WERTH.*</span>
+<span style='display: block; text-align: center;'>_*A LÉON WERTH.*_</span>
 
 Je demande pardon aux enfants d'avoir dédié ce livre à une grande personne. J'ai une excuse sérieuse: cette grande personne est le meilleur ami que j'ai au monde. J'ai une autre excuse: cette grande personne peut tout comprendre, même les livres pour enfants. J'ai une troisième excuse: cette grande personne habite la France où elle a faim et froid. Elle a bien besoin d'être consolée. Si toutes ces excuses ne suffisent pas, je veux bien dédier ce livre à l'enfant qu'a été autrefois cette grande personne. Toutes les grandes personnes ont d'abord été des enfants. (Mais peu d'entre elles s'en souviennent.) Je corrige donc ma dédicace:
+_Eu peço perdão aos infantes por ter dedicado esse livro a uma gente grande.  Eu tenho uma séria desculpa: essa gente grande é o melhor amigo que tenho no mundo. Eu tenho outra desculpa: essa gente grande consegue entender tudo, até os livros para infantes. Eu tenho uma terceira desculpa: essa gente grande habita na França, onde ela tem fome e frio. Ela realmente precisa ser consolada. Se todas essas desculpas não forem suficientes, eu quero dedicar esse livro ao infante que fora outrora essa gente grande. todas as gentes grandes foram primeiro infantes. (Mas poucos entre eles se lembram.) Eu corrijo então minha dedicação:_
 
 <span style='display: block; text-align: center;'>*A LÉON WERTH*</span>
 <span style='display: block; text-align: center;'>*QUAND IL ÉTAIT PETIT GARÇON*</span>
+<span style='display: block; text-align: center;'>_*A LÉON WERTH*_</span>
+<span style='display: block; text-align: center;'>_*QUAND IL ÉTAIT PETIT GARÇON*_</span>
 
 ----
 
