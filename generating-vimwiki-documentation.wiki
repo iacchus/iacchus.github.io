@@ -1,4 +1,4 @@
-= _generating vimwiki documentation_ =
+= generating vimwiki documentation =
 
   == light ==
 
