@@ -6,7 +6,7 @@
 
 _Here we have the vimwiki_ `:help` _, light and dark_
 
-[[local:vimwiki.txt.breve.html|light]] | [[local:vimwiki.txt.dark.html|dark]]
+[[local:vimwiki.txt.breve.html|light]] | [[local:vimwiki.txt.xcodedarkhc.html|dark]]
 
 [[generating-vimwiki-documentation|generating vimwiki documentation]]
 
