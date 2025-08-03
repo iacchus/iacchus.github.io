@@ -8,7 +8,7 @@ Here we have the vimwiki `:help`, light and dark
 
 [[local:vimwiki.txt.breve.html|light]] | [[local:vimwiki.txt.dark.html|dark]]
 
-[[generating-vimwiki-documentation|_generating vimwiki documentation_]]
+_[[generating-vimwiki-documentation|generating vimwiki documentation]]_
 
 == Languages ==
 
