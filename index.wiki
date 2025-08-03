@@ -18,7 +18,7 @@ Here we have the vimwiki `:help`, light and dark
   :TOhtml vimwiki.txt.xcodedarkhc.html
 }}}
 
-[[local:vimwiki.txt.breve.htm|light]] | [[local:vimwiki.txt.dark.htm|dark]]
+[[local:vimwiki.txt.breve.html|light]] | [[local:vimwiki.txt.dark.html|dark]]
 
 == Languages ==
 
