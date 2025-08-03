@@ -6,19 +6,9 @@ Here we have the vimwiki `:help`, light and dark
 
 == Vimwiki documentation ==
 
-{{{viml
-  :help vimwiki
-  :colorscheme breve
-  :TOhtml vimwiki.txt.breve.html
-}}}
-
-{{{vim
-  :help vimwiki
-  :colorscheme xcodedarkhc
-  :TOhtml vimwiki.txt.xcodedarkhc.html
-}}}
-
 [[local:vimwiki.txt.breve.html|light]] | [[local:vimwiki.txt.dark.html|dark]]
+
+[[_generating-vimwiki-documentation_]]
 
 == Languages ==
 

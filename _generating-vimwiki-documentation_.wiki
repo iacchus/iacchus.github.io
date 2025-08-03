@@ -1,0 +1,17 @@
+= _generating vimwiki documentation_ =
+
+  == light ==
+
+{{{vim
+    :help vimwiki
+    :colorscheme breve
+    :TOhtml vimwiki.txt.breve.html
+}}}
+
+  == dark ==
+
+{{{vim
+:help vimwiki
+:colorscheme xcodedarkhc
+:TOhtml vimwiki.txt.xcodedarkhc.html
+}}}
