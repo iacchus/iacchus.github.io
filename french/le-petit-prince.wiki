@@ -11,7 +11,8 @@
 
 ----
 
-Published 1943
+*Published 1943*
+Publicado em 1943
 
 ----
 
@@ -51,7 +52,7 @@ Published 1943
 _Dedicação_
 
 <span style='display: block; text-align: center;'>*A LÉON WERTH.*</span>
-<span style='display: block; text-align: center;'>_*A LÉON WERTH.*_</span>
+<span style='display: block; text-align: center;'>_A LÉON WERTH._</span>
 
 
 *Je demande pardon aux enfants d'avoir dédié ce livre à une grande personne. J'ai une excuse sérieuse: cette grande personne est le meilleur ami que j'ai au monde. J'ai une autre excuse: cette grande personne peut tout comprendre, même les livres pour enfants. J'ai une troisième excuse: cette grande personne habite la France où elle a faim et froid. Elle a bien besoin d'être consolée. Si toutes ces excuses ne suffisent pas, je veux bien dédier ce livre à l'enfant qu'a été autrefois cette grande personne. Toutes les grandes personnes ont d'abord été des enfants. (Mais peu d'entre elles s'en souviennent.) Je corrige donc ma dédicace:*
@@ -60,14 +61,18 @@ Eu peço perdão aos infantes por ter dedicado esse livro a uma gente grande.  P
 
 <span style='display: block; text-align: center;'>*A LÉON WERTH*</span>
 <span style='display: block; text-align: center;'>*QUAND IL ÉTAIT PETIT GARÇON*</span>
-<span style='display: block; text-align: center;'>_*A LÉON WERTH*_</span>
-<span style='display: block; text-align: center;'>_*QUANDO ELE ERA MENININHO*_</span>
+<span style='display: block; text-align: center;'>_A LÉON WERTH_</span>
+<span style='display: block; text-align: center;'>_QUANDO ELE ERA MENININHO_</span>
 
 ----
 
 *PREMIER CHAPITRE*
 
-Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la forêt vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.
+_PRIMEIRO CAPÍTULO_
+
+*Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la forêt vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.*
+
+Quando eu tinha seis anos eu vi, uma vez, uma imagem magnífica, em um livro sobre a floresta tropical que se chamava “Histórias Verídicas”. Ele depictava uma serpente boa que devorava um animal selvagem. Aqui está uma cópia do desenho.
 
 {{/images/le-petit-prince/0300771h-05.jpg||class="center"|image 05}}
 
