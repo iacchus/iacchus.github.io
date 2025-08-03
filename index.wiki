@@ -2,9 +2,9 @@
 
 %title 𝚔𝚊𝚜𝚜𝚒𝚞𝚜 𝚢𝚘𝚔𝚎'𝚜 𝚟𝚒𝚖𝚠𝚒𝚔𝚒
 
-Here we have the vimwiki `:help`, light and dark
-
 == Vimwiki documentation ==
+
+_Here we have the vimwiki `:help`, light and dark_
 
 [[local:vimwiki.txt.breve.html|light]] | [[local:vimwiki.txt.dark.html|dark]]
 
