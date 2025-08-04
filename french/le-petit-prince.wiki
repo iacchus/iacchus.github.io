@@ -6,8 +6,8 @@
 <span style='width: 100%; display: inline-block; text-align: center;'>*by*</span>
 <span style='width: 100%; display: inline-block; text-align: center;'>_*por*_</span>
 
-<span style='display: block; text-align: center;'>*Antoine de Saint-Exupéry*</span>
-<span style='display: block; text-align: center;'>_*Antoine de Saint-Exupéry*_</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>*antoine de saint-exupéry*</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>_*antoine de saint-exupéry*_</span>
 
 ----
 
