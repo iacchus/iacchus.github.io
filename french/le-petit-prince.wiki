@@ -12,7 +12,6 @@
 ----
 
 *Published 1943*
-
 Publicado em 1943
 
 ----
@@ -49,7 +48,6 @@ Publicado em 1943
 ----
 
 *Dédicace*
-
 _Dedicação_
 
 <span style='display: block; text-align: center;'>*A LÉON WERTH.*</span>
@@ -57,7 +55,6 @@ _Dedicação_
 
 
 *Je demande pardon aux enfants d'avoir dédié ce livre à une grande personne. J'ai une excuse sérieuse: cette grande personne est le meilleur ami que j'ai au monde. J'ai une autre excuse: cette grande personne peut tout comprendre, même les livres pour enfants. J'ai une troisième excuse: cette grande personne habite la France où elle a faim et froid. Elle a bien besoin d'être consolée. Si toutes ces excuses ne suffisent pas, je veux bien dédier ce livre à l'enfant qu'a été autrefois cette grande personne. Toutes les grandes personnes ont d'abord été des enfants. (Mais peu d'entre elles s'en souviennent.) Je corrige donc ma dédicace:*
-
 Eu peço perdão aos infantes por ter dedicado esse livro a uma gente grande.  Possuo uma séria desculpa: essa gente grande é o melhor amigo que tenho no mundo. Eu tenho outra desculpa: essa gente grande consegue entender tudo, até os livros para os infantes. Eu tenho uma terceira desculpa: essa gente grande habita na França, onde ela sente fome e frio. Ela realmente precisa ser consolada. Se todas essas desculpas não forem suficientes, eu quero dedicar esse livro ao infante que fora outrora essa gente grande. Todas as gentes grandes primeiro foram infantes. (Mas poucos entre eles se lembram.) Eu corrijo então minha dedicação:
 
 <span style='display: block; text-align: center;'>*A LÉON WERTH*</span>
@@ -68,21 +65,17 @@ Eu peço perdão aos infantes por ter dedicado esse livro a uma gente grande.  P
 ----
 
 *PREMIER CHAPITRE*
-
 _PRIMEIRO CAPÍTULO_
 
 *Lorsque j'avais six ans j'ai vu, une fois, une magnifique image, dans un livre sur la forêt vierge qui s'appelait "Histoires Vécues". Ça représentait un serpent boa qui avalait un fauve. Voilà la copie du dessin.*
-
 Quando eu tinha seis anos eu vi, uma vez, uma imagem magnífica, em um livro sobre a floresta tropical que se chamava “Histórias Verídicas”. Ela depictava uma jibóia que devorava um animal selvagem. Aqui está uma cópia do desenho.
 
 {{/images/le-petit-prince/0300771h-05.jpg||class="center"|image 05}}
 
 *On disait dans le livre: "Les serpents boas avalent leur proie tout entière, sans la mâcher. Ensuite ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion".*
-
 Dizia no livro: “As jibóias engolem sua presa inteira, sem mastigá-la. Então elas não conseguem mais se mover e elas dormem pelos seis meses de sua digestão”.
 
 *J'ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j'ai réussi, avec un crayon de couleur, à tracer mon premier dessin. Mon dessin numéro 1. Il était comme ça:*
-
 Então eu pensei muito nas aventuras da selva e, por minha vez, tive sucesso, com um giz de cera, de traçar o meu primeiro desenho. Meu desenho de número 1. Ele era assimn:
 
 {{/images/le-petit-prince/0300771h-06.jpg||class="center"|image}}
