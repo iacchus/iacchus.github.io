@@ -40,7 +40,7 @@
 
 https://public.kassius.org/pinocchio/images/ill5.jpg
 
-{{/images/le-avventure-di-pinnochio/ill5.jpg||class="center"|image}}
+{{/images/le-avventure-di-pinocchio/ill5.jpg||class="center"|image}}
 
 == I. ==
 
