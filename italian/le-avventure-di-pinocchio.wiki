@@ -1,31 +1,29 @@
-= Le Avventure di Pinocchio =
+  = Le Avventure di Pinocchio =
 
 https://public.kassius.org/pinocchio/pg52484-images.html
 
 
-= LE AVVENTURE DI PINOCCHIO =
+<span style='width: 100%; display: inline-block; text-align: center;'>C. COLLODI</span>
 
-C. COLLODI
+<span style='width: 100%; display: inline-block; text-align: center;'>Le Avventure di Pinocchio</span>
 
-Le Avventure di Pinocchio
+<span style='width: 100%; display: inline-block; text-align: center;'>Storia di un burattino</span>
 
-Storia di un burattino
+<span style='width: 100%; display: inline-block; text-align: center;'>illustrata da</span>
 
-illustrata da
+<span style='width: 100%; display: inline-block; text-align: center;'>CARLO CHIOSTRI</span>
 
-CARLO CHIOSTRI
+<span style='width: 100%; display: inline-block; text-align: center;'>Incisioni di A. Bongini</span>
 
-Incisioni di A. Bongini
+<span style='width: 100%; display: inline-block; text-align: center;'>Nuova edizione</span>
 
-Nuova edizione
+<span style='width: 100%; display: inline-block; text-align: center;'>FIRENZE</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>R. Bemporad & Figlio — Editori.</span>
 
-FIRENZE
-R. Bemporad & Figlio — Editori.
+<span style='width: 100%; display: inline-block; text-align: center;'>PROPRIETÀ LETTERARIA</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>DEGLI EDITORI R. BEMPORAD & FIGLIO</span>
 
-PROPRIETÀ LETTERARIA
-DEGLI EDITORI R. BEMPORAD & FIGLIO
-
-12 — 1902. — Tip. di V. Sieni, Corso de' Tintori, Firenze.
+<span style='width: 100%; display: inline-block; text-align: center;'>12 — 1902. — Tip. di V. Sieni, Corso de' Tintori, Firenze.</span>
 
 INDICE
 
