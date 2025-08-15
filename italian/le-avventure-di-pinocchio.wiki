@@ -1,7 +1,10 @@
   = Le Avventure di Pinocchio =
+  
+%title Le Avventure di Pinocchio
 
-https://public.kassius.org/pinocchio/pg52484-images.html
+  https://public.kassius.org/pinocchio/pg52484-images.html
 
+----
 
 <span style='width: 100%; display: inline-block; text-align: center;'>C. COLLODI</span>
 
@@ -20,15 +23,28 @@ https://public.kassius.org/pinocchio/pg52484-images.html
 <span style='width: 100%; display: inline-block; text-align: center;'>FIRENZE</span>
 <span style='width: 100%; display: inline-block; text-align: center;'>R. Bemporad & Figlio — Editori.</span>
 
+----
+
 <span style='width: 100%; display: inline-block; text-align: center;'>PROPRIETÀ LETTERARIA</span>
 <span style='width: 100%; display: inline-block; text-align: center;'>DEGLI EDITORI R. BEMPORAD & FIGLIO</span>
 
 <span style='width: 100%; display: inline-block; text-align: center;'>12 — 1902. — Tip. di V. Sieni, Corso de' Tintori, Firenze.</span>
 
-INDICE
+----
+
+*INDICE*
+
+----
 
 [5]
-I. Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.
+
+https://public.kassius.org/pinocchio/images/ill5.jpg
+
+{{/images/le-avventure-di-pinnochio/ill5.jpg||class="center"|image}}
+
+== I. ==
+
+Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.
 
 — C'era una volta....
 
@@ -87,7 +103,9 @@ Questa volta il povero maestro Ciliegia cadde giù come fulminato. Quando riapr�
 Il suo viso pareva trasfigurito, e perfino la punta del naso, di paonazza come era quasi sempre, gli era diventata turchina dalla gran paura.
 
 [10]
-II. Maestro Ciliegia regala il pezzo di legno al suo amico Geppetto, il quale lo prende per fabbricarsi un burattino maraviglioso, che sappia ballare, tirar di scherma e fare i salti mortali.
+  == II. ==
+
+Maestro Ciliegia regala il pezzo di legno al suo amico Geppetto, il quale lo prende per fabbricarsi un burattino maraviglioso, che sappia ballare, tirar di scherma e fare i salti mortali.
 
 In quel punto fu bussato alla porta.
 
