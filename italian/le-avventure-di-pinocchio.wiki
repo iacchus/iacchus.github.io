@@ -6,7 +6,7 @@
 
 ----
 
-<span style='width: 100%; display: inline-block; text-align: center;'>C. COLLODI</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>CARLO COLLODI</span>
 
 <span style='width: 100%; display: inline-block; text-align: center;'>Le Avventure di Pinocchio</span>
 
@@ -41,6 +41,9 @@
 {{/images/le-avventure-di-pinocchio/ill5.jpg||class="center"|image}}
 
   == I. ==
+
+<span class="subtitle pinocchio-subtitle">Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.</span>
+
 <span style='width: 100%; display: inline-block; text-align: center; color: #999999;'>Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.</span>
 
 — C'era una volta....
@@ -103,7 +106,7 @@ Il suo viso pareva trasfigurito, e perfino la punta del naso, di paonazza come e
 [10]
   == II. ==
 
-Maestro Ciliegia regala il pezzo di legno al suo amico Geppetto, il quale lo prende per fabbricarsi un burattino maraviglioso, che sappia ballare, tirar di scherma e fare i salti mortali.
+<span class="subtitle pinocchio-subtitle">Maestro Ciliegia regala il pezzo di legno al suo amico Geppetto, il quale lo prende per fabbricarsi un burattino maraviglioso, che sappia ballare, tirar di scherma e fare i salti mortali.</span>
 
 In quel punto fu bussato alla porta.
 
@@ -212,7 +215,7 @@ Intanto Geppetto prese con sè il suo bravo pezzo di legno, e ringraziato mastr'
 [15]
   == III. ==
 
-Geppetto, tornato a casa, comincia subito a fabbricarsi il burattino e gli mette il nome di Pinocchio. Prime monellerie del burattino.
+<span class="subtitle pinocchio-subtitle">Geppetto, tornato a casa, comincia subito a fabbricarsi il burattino e gli mette il nome di Pinocchio. Prime monellerie del burattino.</span>
 
 La casa di Geppetto era una stanzina terrena, che pigliava luce da un sottoscala. La mobilia non poteva esser più semplice: una seggiola cattiva, un letto poco buono e un tavolino tutto rovinato. Nella parete di fondo si vedeva un caminetto col fuoco acceso; ma il fuoco era dipinto, e accanto al fuoco c'era dipinta una pentola che bolliva allegramente e mandava fuori una nuvola di fumo, che pareva fumo davvero.
 
@@ -320,7 +323,7 @@ Quello che accadde dopo, è una storia così strana, da non potersi quasi creder
 
   == IV. ==
 
-La storia di Pinocchio col Grillo-parlante, dove si vede come i ragazzi cattivi hanno a noja di sentirsi correggere da chi ne sa più di loro.
+<span class="subtitle pinocchio-subtitle">La storia di Pinocchio col Grillo-parlante, dove si vede come i ragazzi cattivi hanno a noja di sentirsi correggere da chi ne sa più di loro.</span>
 
 Vi dirò dunque, ragazzi, che mentre il povero Geppetto era condotto senza sua colpa in prigione, quel monello di Pinocchio, rimasto libero dalle grinfie del carabiniere, se la dava a gambe giù attraverso ai campi, per far più presto a tornarsene a casa; e nella gran furia del correre saltava greppi altissimi, siepi di pruni e fossi pieni d'acqua, tale e quale come avrebbe potuto fare un capretto o un leprottino inseguito dai cacciatori.
 
@@ -388,7 +391,7 @@ Forse non credeva nemmeno di colpirlo; ma disgraziatamente lo colse per l'appunt
 
   == V. ==
 
-Pinocchio ha fame e cerca un uovo per farsi una frittata; ma sul più bello, la frittata gli vola via dalla finestra.
+<span class="subtitle pinocchio-subtitle">Pinocchio ha fame e cerca un uovo per farsi una frittata; ma sul più bello, la frittata gli vola via dalla finestra.</span>
 
 Intanto cominciò a farsi notte, e Pinocchio, ricordandosi che non aveva mangiato nulla, sentì un'uggiolina allo stomaco, che somigliava moltissimo all'appetito.
 
@@ -428,7 +431,7 @@ E perchè il corpo gli seguitava a brontolare più che mai, e non sapeva come fa
 
   == VI. ==
 
-Pinocchio si addormenta coi piedi sul caldano, e la mattina dopo si sveglia coi piedi tutti bruciati.
+<span class="subtitle pinocchio-subtitle">Pinocchio si addormenta coi piedi sul caldano, e la mattina dopo si sveglia coi piedi tutti bruciati.</span>
 
 Per l'appunto era una nottataccia d'inferno. Tonava forte forte, lampeggiava come se il cielo pigliasse fuoco, e un ventaccio freddo e strapazzone, fischiando rabbiosamente e sollevando un immenso nuvolo di polvere, faceva stridere e cigolare tutti gli alberi della campagna.
 
@@ -474,7 +477,7 @@ Quella voce era la voce di Geppetto.
 
   == VII. ==
 
-Geppetto torna a casa, e dà al burattino la colazione che il pover'uomo aveva portata per sè.
+<span class="subtitle pinocchio-subtitle">Geppetto torna a casa, e dà al burattino la colazione che il pover'uomo aveva portata per sè.</span>
 
 Il povero Pinocchio, che aveva sempre gli occhi fra il sonno, non s'era ancora avvisto dei piedi che gli si erano tutti bruciati: per cui appena sentì la voce di suo padre, schizzò giù dallo sgabello per correre a tirare il paletto; ma invece, dopo due o tre traballoni, cadde di picchio tutto lungo disteso sul pavimento.
 
@@ -560,7 +563,7 @@ E cominciò a masticare. Da principio storse un po' la bocca: ma poi una dietro 
 
   == VIII. ==
 
-Geppetto rifà i piedi a Pinocchio, e vende la propria casacca per comprargli l'Abbecedario.
+<span class="subtitle pinocchio-subtitle">Geppetto rifà i piedi a Pinocchio, e vende la propria casacca per comprargli l'Abbecedario.</span>
 
 Il burattino, appena che si fu levata la fame, cominciò subito a bofonchiare e a piangere, perchè voleva un paio di piedi nuovi.
 
@@ -650,7 +653,7 @@ Pinocchio capì questa risposta a volo, e non potendo frenare l'impeto del suo b
 
   == IX. ==
 
-Pinocchio vende l'Abbecedario per andare a vedere il teatro dei burattini.
+<span class="subtitle pinocchio-subtitle">Pinocchio vende l'Abbecedario per andare a vedere il teatro dei burattini.</span>
 
 Smesso che fu di nevicare, Pinocchio, col suo bravo Abbecedario nuovo sotto il braccio, prese la strada che menava alla scuola: e strada facendo, fantasticava nel suo cervellino mille ragionamenti e mille castelli in aria, uno più bello dell'altro.
 
@@ -726,7 +729,7 @@ E il libro fu venduto lì su due piedi. E pensare che quel pover'uomo di Geppett
 
   == X. ==
 
-I burattini riconoscono il loro fratello Pinocchio e gli fanno una grandissima festa; ma sul più bello esce fuori il burattinaio Mangiafoco, e Pinocchio corre pericolo di fare una brutta fine.
+<span class="subtitle pinocchio-subtitle">I burattini riconoscono il loro fratello Pinocchio e gli fanno una grandissima festa; ma sul più bello esce fuori il burattinaio Mangiafoco, e Pinocchio corre pericolo di fare una brutta fine.</span>
 
 Quando Pinocchio entrò nel teatrino delle marionette, accadde un fatto che destò una mezza rivoluzione.
 
@@ -786,7 +789,7 @@ Arlecchino e Pulcinella da principio esitarono; ma impauriti da un'occhiataccia 
 
   == XI. ==
 
-Mangiafoco starnutisce e perdona a Pinocchio, il quale poi difende dalla morte il suo amico Arlecchino.
+<span class="subtitle pinocchio-subtitle">Mangiafoco starnutisce e perdona a Pinocchio, il quale poi difende dalla morte il suo amico Arlecchino.</span>
 
 Il burattinaio Mangiafoco (che questo era il suo nome) pareva un uomo spaventoso, non dico di no, specie con quella sua barbaccia nera che, a uso grembiale, gli copriva tutto il petto e tutte le gambe; ma nel fondo poi non era un cattiv'uomo. Prova ne sia, che quando vide portarsi davanti quel povero Pinocchio, che si dibatteva per ogni verso, urlando «Non voglio morire, non voglio morire!» principiò subito a commuoversi e a impietosirsi; e dopo aver resistito un bel pezzo, alla fine non ne potè più, e lasciò andare un sonorosissimo starnuto.
 
@@ -878,7 +881,7 @@ Era l'alba e ballavano sempre.
 
   == XII. ==
 
-Il burattinaio Mangiafoco regala cinque monete d'oro a Pinocchio perchè le porti al suo babbo Geppetto: e Pinocchio, invece, si lascia abbindolare dalla Volpe e dal Gatto e se ne va con loro.
+<span class="subtitle pinocchio-subtitle">Il burattinaio Mangiafoco regala cinque monete d'oro a Pinocchio perchè le porti al suo babbo Geppetto: e Pinocchio, invece, si lascia abbindolare dalla Volpe e dal Gatto e se ne va con loro.</span>
 
 Il giorno dipoi Mangiafoco chiamò in disparte Pinocchio e gli domandò:
 
@@ -1022,7 +1025,7 @@ Pinocchio ci pensò un poco, e poi disse risolutamente:
 
   == XIII. ==
 
-L'osteria del «Gambero Rosso.»
+<span class="subtitle pinocchio-subtitle">L'osteria del «Gambero Rosso.»</span>
 
 Cammina, cammina, cammina, alla fine sul far della sera arrivarono stanchi morti all'osteria del Gambero Rosso.
 
@@ -1120,7 +1123,7 @@ Appena dette queste ultime parole, il Grillo-parlante si spense a un tratto, com
 
   == XIV. ==
 
-Pinocchio, per non aver dato retta ai buoni consigli del Grillo-parlante, s'imbatte negli assassini.
+<span class="subtitle pinocchio-subtitle">Pinocchio, per non aver dato retta ai buoni consigli del Grillo-parlante, s'imbatte negli assassini.</span>
 
 — Davvero.... — disse fra sè il burattino rimettendosi in viaggio — come siamo disgraziati noialtri poveri ragazzi! Tutti ci sgridano, tutti ci ammoniscono, tutti ci dànno dei consigli. A lasciarli dire, tutti si metterebbero in capo di essere i nostri babbi e i nostri maestri; tutti; anche i Grilli-parlanti. Ecco qui: perchè io non ho voluto dar retta a quell'uggioso di Grillo, chi lo sa quante disgrazie, secondo lui, mi dovrebbero accadere! Dovrei incontrare anche gli assassini! Meno male che agli assassini io non ci credo, nè ci ho creduto mai. Per me gli assassini sono stati inventati apposta dai babbi, per far paura ai ragazzi che vogliono andar fuori la notte. E poi, se anche li trovassi qui sulla strada, mi darebbero forse soggezione? Neanche per sogno, anderei loro sul viso, gridando: «Signori assassini, che [79] cosa vogliono da me? Si rammentino che con me non si scherza! Se ne vadano dunque per i fatti loro, e zitti!» A questa parlantina fatta sul serio, quei poveri assassini, mi par di vederli, scapperebbero via come il vento. Caso poi fossero tanto ineducati da non volere scappare, allora scapperei io, e così la farei finita.... —
 
@@ -1182,7 +1185,7 @@ E già si figurava che fossero bell'e affogati, quando invece, voltandosi a guar
 
   == XV. ==
 
-Gli assassini inseguono Pinocchio; e dopo averlo raggiunto lo impiccano a un ramo della Quercia grande.
+<span class="subtitle pinocchio-subtitle">Gli assassini inseguono Pinocchio; e dopo averlo raggiunto lo impiccano a un ramo della Quercia grande.</span>
 
 Allora il burattino, perdutosi d'animo fu proprio sul punto di gettarsi a terra e di darsi per vinto, quando, nel girare gli occhi all'intorno, vide fra mezzo al verde cupo degli alberi biancheggiare in lontananza una casina candida come la neve.
 
@@ -1256,7 +1259,7 @@ E non ebbe fiato per dir altro. Chiuse gli occhi, aprì la bocca, stirò le gamb
 
   == XVI. ==
 
-La bella Bambina dai capelli turchini fa raccogliere il burattino: lo mette a letto, e chiama tre medici per sapere se sia vivo o morto.
+<span class="subtitle pinocchio-subtitle">La bella Bambina dai capelli turchini fa raccogliere il burattino: lo mette a letto, e chiama tre medici per sapere se sia vivo o morto.</span>
 
 In quel mentre che il povero Pinocchio impiccato dagli assassini a un ramo della Quercia grande, pareva oramai più morto che vivo, la bella Bambina dai capelli turchini si affacciò daccapo alla finestra, e impietositasi alla vista di quell'infelice che, sospeso per il collo, ballava il trescone alle ventate di tramontana, battè per tre volte le mani insieme, e fece tre piccoli colpi.
 
@@ -1342,7 +1345,7 @@ A questo punto si sentì nella camera un suono soffocato di pianti e singhiozzi.
 
   == XVII. ==
 
-Pinocchio mangia lo zucchero, ma non vuol purgarsi; però quando vede i becchini che vengono a portarlo via, allora si purga. Poi dice una bugia e per gastigo gli cresce il naso.
+<span class="subtitle pinocchio-subtitle">Pinocchio mangia lo zucchero, ma non vuol purgarsi; però quando vede i becchini che vengono a portarlo via, allora si purga. Poi dice una bugia e per gastigo gli cresce il naso.</span>
 
 Appena i tre medici furono usciti di camera, la Fata si accostò a Pinocchio, e, dopo averlo toccato sulla fronte, si accòrse che era travagliato da un febbrone da non si dire.
 
@@ -1506,7 +1509,7 @@ Pinocchio, non sapendo più dove nascondersi per la vergogna, si provò a fuggir
 
   == XVIII. ==
 
-Pinocchio ritrova la Volpe e il Gatto, e va con loro a seminare le quattro monete nel Campo dei miracoli.
+<span class="subtitle pinocchio-subtitle">Pinocchio ritrova la Volpe e il Gatto, e va con loro a seminare le quattro monete nel Campo dei miracoli.</span>
 
 Come potete immaginarvelo, la Fata lasciò che il burattino piangesse e urlasse una buona mezz'ora a motivo di quel suo naso che non passava più dalla porta di camera: e lo fece per dargli una severa lezione e perchè si correggesse dal brutto vizio di dire bugie, il più brutto vizio che possa avere un ragazzo. Ma quando lo vide trasfigurato e cogli occhi fuori della testa dalla gran disperazione, allora, mossa a pietà, battè le mani insieme, e a quel segnale entrarono in camera dalla finestra un migliaio di grossi uccelli chiamati Picchi, i quali, posatisi tutti sul naso di Pinocchio, cominciarono a beccarglielo tanto e poi tanto, che in pochi minuti quel naso enorme e spropositato si trovò ridotto alla sua grandezza naturale.
 
@@ -1632,7 +1635,7 @@ Ciò detto salutarono Pinocchio, e augurandogli una buona raccolta, se ne andaro
 
   == XIX. ==
 
-Pinocchio è derubato delle sue monete d'oro, e per gastigo si busca quattro mesi di prigione.
+<span class="subtitle pinocchio-subtitle">Pinocchio è derubato delle sue monete d'oro, e per gastigo si busca quattro mesi di prigione.</span>
 
 Il burattino, ritornato in città, cominciò a contare i minuti a uno a uno: e quando gli parve che fosse l'ora, riprese subito la strada che menava al Campo dei miracoli.
 
@@ -1710,7 +1713,7 @@ Gli tapparono la bocca e lo condussero in gattabuia.
 
   == XX. ==
 
-Liberato dalla prigione, si avvia per tornare a casa della Fata; ma lungo la strada trova un serpente orribile, e poi rimane preso alla tagliuola.
+<span class="subtitle pinocchio-subtitle">Liberato dalla prigione, si avvia per tornare a casa della Fata; ma lungo la strada trova un serpente orribile, e poi rimane preso alla tagliuola.</span>
 
 Figuratevi l'allegrezza di Pinocchio quando si sentì libero. Senza stare a dire che è e che non è, uscì subito fuori della città e riprese la strada che doveva ricondurlo alla Casina della Fata.
 
@@ -1762,7 +1765,7 @@ Il povero burattino era rimasto preso a una tagliuola appostata là da alcuni co
 
   == XXI. ==
 
-Pinocchio è preso da un contadino, il quale lo costringe a far da can di guardia a un pollaio.
+<span class="subtitle pinocchio-subtitle">Pinocchio è preso da un contadino, il quale lo costringe a far da can di guardia a un pollaio.</span>
 
 Pinocchio, come potete figurarvelo, si dètte a piangere, a strillare, a raccomandarsi: ma erano pianti e grida inutili, perchè lì all'intorno non si vedevano case, e dalla strada non passava anima viva.
 
@@ -1824,7 +1827,7 @@ Fatto questo piccolo sfogo, che gli venne proprio dal cuore, entrò dentro il ca
 
   == XXII. ==
 
-Pinocchio scuopre i ladri, e in ricompensa di essere stato fedele vien posto in libertà.
+<span class="subtitle pinocchio-subtitle">Pinocchio scuopre i ladri, e in ricompensa di essere stato fedele vien posto in libertà.</span>
 
 Ed era già più di due ore che dormiva saporitamente, quando verso la mezzanotte fu svegliato da un bisbiglio e da un pissi—pissi di vocine strane, che gli parve di sentir nell'aia. Messa fuori la punta del naso dalla buca del casotto, vide riunite a consiglio quattro bestiole di pelame scuro che parevano gatti. Ma non erano gatti: erano faine, animaletti carnivori, ghiottissimi d'uova e di pollastrine giovani. Una di queste faine, staccandosi dalle sue compagne, andò alla buca del casotto, e disse sottovoce:
 
@@ -1914,7 +1917,7 @@ E gli levò il collare da cane.
 
   == XXIII. ==
 
-Pinocchio piange la morte della bella Bambina dai capelli turchini: poi trova un Colombo, che lo porta sulla riva del mare, e lì si getta nell'acqua per andare in aiuto del suo babbo Geppetto.
+<span class="subtitle pinocchio-subtitle">Pinocchio piange la morte della bella Bambina dai capelli turchini: poi trova un Colombo, che lo porta sulla riva del mare, e lì si getta nell'acqua per andare in aiuto del suo babbo Geppetto.</span>
 
 Appena Pinocchio non sentì più il peso durissimo e umiliante di quel collare intorno al collo, si pose a scappare attraverso ai campi, e non si fermò un solo minuto finchè non ebbe raggiunta la strada maestra, che doveva ricondurlo alla casina della Fata.
 
@@ -2040,7 +2043,7 @@ Pinocchio, essendo tutto di legno, galleggiava facilmente e nuotava come un pesc
 
   == XXIV. ==
 
-Pinocchio arriva all'isola delle «Api industriose» e ritrova la Fata.
+<span class="subtitle pinocchio-subtitle">Pinocchio arriva all'isola delle «Api industriose» e ritrova la Fata.</span>
 
 Pinocchio, animato dalla speranza di arrivare in tempo a dare aiuto al suo povero babbo, nuotò tutta quanta la notte.
 
@@ -2196,7 +2199,7 @@ E nel dir così, Pinocchio piangeva dirottamente, e gettatosi ginocchioni per te
 
   == XXV. ==
 
-Pinocchio promette alla Fata di esser buono e di studiare, perchè è stufo di fare il burattino e vuol diventare un bravo ragazzo.
+<span class="subtitle pinocchio-subtitle">Pinocchio promette alla Fata di esser buono e di studiare, perchè è stufo di fare il burattino e vuol diventare un bravo ragazzo.</span>
 
 In sulle prime, la buona donnina cominciò col dire che lei non era la piccola Fata dai capelli turchini: ma poi, vedendosi ormai scoperta e non volendo mandare più in lungo la commedia, finì per farsi riconoscere, e disse a Pinocchio:
 
@@ -2310,7 +2313,7 @@ Queste parole toccarono l'animo di Pinocchio, il quale, rialzando vivacemente la
 
   == XXVI. ==
 
-Pinocchio va co' suoi compagni di scuola in riva al mare, per vedere il terribile Pesce-cane.
+<span class="subtitle pinocchio-subtitle">Pinocchio va co' suoi compagni di scuola in riva al mare, per vedere il terribile Pesce-cane.</span>
 
 Il giorno dopo Pinocchio andò alla Scuola comunale.
 
@@ -2394,7 +2397,7 @@ Di tanto in tanto, voltandosi indietro, canzonava i suoi compagni rimasti a una 
 
   == XXVII. ==
 
-Gran combattimento fra Pinocchio e i suoi compagni: uno dei quali essendo rimasto ferito, Pinocchio viene arrestato dai carabinieri.
+<span class="subtitle pinocchio-subtitle">Gran combattimento fra Pinocchio e i suoi compagni: uno dei quali essendo rimasto ferito, Pinocchio viene arrestato dai carabinieri.</span>
 
 Giunto che fu sulla spiaggia, Pinocchio dètte subito una grande occhiata sul mare; ma non vide nessun Pesce-cane. Il mare era tutto liscio come un gran cristallo da specchio.
 
@@ -2562,7 +2565,7 @@ I carabinieri, giudicando che fosse difficile raggiungerlo, gli aizzarono dietro
 
   == XXVIII. ==
 
-Pinocchio corre pericolo di esser fritto in padella, come un pesce.
+<span class="subtitle pinocchio-subtitle">Pinocchio corre pericolo di esser fritto in padella, come un pesce.</span>
 
 Durante quella corsa disperata, vi fu un momento terribile, un momento in cui Pinocchio si credè perduto: perchè bisogna sapere che Alidoro (era questo il nome del can mastino) a furia di correre e correre, l'aveva quasi raggiunto.
 
@@ -2684,7 +2687,7 @@ Poi lo prese per il capo, e....
 
   == XXIX. ==
 
-Ritorna a casa della Fata, la quale gli promette che il giorno dopo non sarà più un burattino, ma diventerà un ragazzo. Gran colazione di caffè-e-latte per festeggiare questo grande avvenimento.
+<span class="subtitle pinocchio-subtitle">Ritorna a casa della Fata, la quale gli promette che il giorno dopo non sarà più un burattino, ma diventerà un ragazzo. Gran colazione di caffè-e-latte per festeggiare questo grande avvenimento.</span>
 
 Mentre il pescatore era proprio sul punto di buttar Pinocchio nella padella, entrò nella grotta un grosso cane, condotto là dall'odore acutissimo e ghiotto della frittura.
 
@@ -2896,7 +2899,7 @@ Disgraziatamente, nella vita dei burattini, c'è sempre un ma, che sciupa ogni c
 
   == XXX. ==
 
-Pinocchio, invece di diventare un ragazzo, parte di nascosto col suo amico Lucignolo per il «Paese dei balocchi.»
+<span class="subtitle pinocchio-subtitle">Pinocchio, invece di diventare un ragazzo, parte di nascosto col suo amico Lucignolo per il «Paese dei balocchi.»</span>
 
 Com'è naturale, Pinocchio chiese subito alla Fata il permesso di andare in giro per la città a fare gl'inviti: e la Fata gli disse:
 
@@ -3090,7 +3093,7 @@ Intanto si era già fatta notte e notte buia: quando a un tratto videro muoversi
 
   == XXXI. ==
 
-Dopo cinque mesi di cuccagna, Pinocchio con sua gran meraviglia sente spuntarsi un bel pajo d'orecchie asinine, e diventa un ciuchino, con la coda e tutto.
+<span class="subtitle pinocchio-subtitle">Dopo cinque mesi di cuccagna, Pinocchio con sua gran meraviglia sente spuntarsi un bel pajo d'orecchie asinine, e diventa un ciuchino, con la coda e tutto.</span>
 
 Finalmente il carro arrivò: e arrivò senza fare il più piccolo rumore, perchè le sue ruote erano fasciate di stoppa e di cenci.
 
@@ -3226,7 +3229,7 @@ Intanto era già da cinque mesi che durava questa bella cuccagna di baloccarsi e
 
   == XXXII. ==
 
-A Pinocchio gli vengono gli orecchi di ciuco, e poi diventa un ciuchino vero e comincia a ragliare.
+<span class="subtitle pinocchio-subtitle">A Pinocchio gli vengono gli orecchi di ciuco, e poi diventa un ciuchino vero e comincia a ragliare.</span>
 
 E questa sorpresa quale fu?
 
@@ -3422,7 +3425,7 @@ In quel frattempo fu bussato alla porta, e una voce di fuori disse:
 
   == XXXIII. ==
 
-Diventato un ciuchino vero è portato a vendere, e lo compra il Direttore di una compagnia di pagliacci, per insegnargli a ballare e saltare i cerchi: ma una sera azzoppisce e allora lo ricompra un altro, per far con la sua pelle un tamburo.
+<span class="subtitle pinocchio-subtitle">Diventato un ciuchino vero è portato a vendere, e lo compra il Direttore di una compagnia di pagliacci, per insegnargli a ballare e saltare i cerchi: ma una sera azzoppisce e allora lo ricompra un altro, per far con la sua pelle un tamburo.</span>
 
 Vedendo che la porta non si apriva, l'omino la spalancò con un violentissimo calcio: ed entrato nella stanza, disse col suo solito risolino a Pinocchio e a Lucignolo:
 
@@ -3589,7 +3592,7 @@ Pinocchio con quel macigno al collo, andò subito a fondo; e il compratore, tene
 
   == XXXIV. ==
 
-Pinocchio gettato in mare, è mangiato dai pesci, e ritorna ad essere un burattino come prima: ma mentre nuota per salvarsi, è ingoiato dal terribile Pesce-cane.
+<span class="subtitle pinocchio-subtitle">Pinocchio gettato in mare, è mangiato dai pesci, e ritorna ad essere un burattino come prima: ma mentre nuota per salvarsi, è ingoiato dal terribile Pesce-cane.</span>
 
 Dopo cinquanta minuti che il ciuchino era sott'acqua, il compratore disse, discorrendo da sè solo:
 
@@ -3753,7 +3756,7 @@ Nel tempo che faceva questa conversazione al buio, parve a Pinocchio di vedere, 
 
   == XXXV. ==
 
-Pinocchio ritrova in corpo al Pesce-cane.... chi ritrova? Leggete questo capitolo e lo saprete.
+<span class="subtitle pinocchio-subtitle">Pinocchio ritrova in corpo al Pesce-cane.... chi ritrova? Leggete questo capitolo e lo saprete.</span>
 
 Pinocchio, appena che ebbe detto addio al suo buon amico Tonno, si mosse brancolando in mezzo a quel buio, e camminando a tastoni dentro il corpo del Pesce-cane, si avviò, un passo dietro l'altro, verso quel piccolo chiarore che vedeva baluginare lontano lontano.
 
@@ -3841,7 +3844,7 @@ Appena Geppetto si fu accomodato per bene [275] sulle spalle del figliuolo, il b
 
   == XXXVI. ==
 
-Finalmente Pinocchio cessa d'essere un burattino e diventa un ragazzo.
+<span class="subtitle pinocchio-subtitle">Finalmente Pinocchio cessa d'essere un burattino e diventa un ragazzo.</span>
 
 Mentre Pinocchio nuotava alla svelta per raggiungere la spiaggia, si accòrse che il suo babbo, il quale gli stava a cavalluccio sulle spalle e aveva le gambe mezze nell'acqua, tremava fitto fitto, come se al pover'uomo gli battesse la febbre terzana.
 

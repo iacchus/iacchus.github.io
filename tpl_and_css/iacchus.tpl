@@ -6,6 +6,7 @@
 <link rel="Stylesheet" type="text/css" href="/assets/css/tailwind.min.css">
 <link rel="Stylesheet" type="text/css" href="/assets/css/style.css">
 <link rel="Stylesheet" type="text/css" href="/assets/css/custom.css">
+<link rel="Stylesheet" type="text/css" href="/assets/css/misc-custom.css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="%root_path%%rss%">
 <title>%title%</title>
 <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
