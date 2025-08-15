@@ -2,7 +2,7 @@
   
 %title Le Avventure di Pinocchio
 
-em edição de acordo com https://public.kassius.org/pinocchio/pg52484-images.html
+<span style='width: 100%; display: inline-block; text-align: center;'> em edição de acordo com https://public.kassius.org/pinocchio/pg52484-images.html </span>
 
 ----
 
