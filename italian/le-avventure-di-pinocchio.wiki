@@ -42,7 +42,7 @@ https://public.kassius.org/pinocchio/images/ill5.jpg
 
 {{/images/le-avventure-di-pinocchio/ill5.jpg||class="center"|image}}
 
-== I. ==
+  == I. ==
 
 Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.
 
