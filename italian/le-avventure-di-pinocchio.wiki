@@ -57,7 +57,7 @@ Non era un legno di lusso, ma un semplice pezzo da catasta, di quelli che d'inve
 Non so come andasse, ma il fatto gli è che un bel giorno questo pezzo di legno capitò nella bottega di un vecchio falegname, il quale aveva nome mastr'Antonio, se non che tutti lo chiamavano maestro Ciliegia, per via della punta del suo naso, che era sempre lustra e paonazza, come una ciliegia matura.
 
 {{/images/le-avventure-di-pinocchio/ill6.jpg||class="center"|image}}
-<span style='width: 100%; display: inline-block; text-align: center; color: #cccccc;'>.... sentì una vocina sottile sottile.</span>
+<span class="imagetext pinocchio-imagetext">.... sentì una vocina sottile sottile.</span>
 
 Appena maestro Ciliegia ebbe visto quel pezzo di legno, si rallegrò tutto; e dandosi una fregatina di mani per la contentezza, borbottò a mezza voce:
 
