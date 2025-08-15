@@ -38,8 +38,6 @@
 
 [5]
 
-https://public.kassius.org/pinocchio/images/ill5.jpg
-
 {{/images/le-avventure-di-pinocchio/ill5.jpg||class="center"|image}}
   == I. ==
 
