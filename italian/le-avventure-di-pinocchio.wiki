@@ -1731,7 +1731,8 @@ E lì v'ebbe a rimanere quattro mesi: quattro lunghissimi mesi: e vi sarebbe rim
 
 [119]
 
-— Quel povero diavolo è stato derubato di quattro monete d'oro: pigliatelo dunque, e mettetelo subito in prigione.
+<img src="/images/le-avventure-di-pinocchio/ill119.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Quel povero diavolo è stato derubato di quattro monete d'oro: pigliatelo dunque, e mettetelo subito in prigione.</span>
 
 [121]
 
@@ -1739,7 +1740,8 @@ E lì v'ebbe a rimanere quattro mesi: quattro lunghissimi mesi: e vi sarebbe rim
 
 — Domando scusa; — replicò Pinocchio — sono un malandrino anch'io.
 
-Gli tapparono la bocca e lo condussero in gattabuia.
+<img src="/images/le-avventure-di-pinocchio/ill121.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Gli tapparono la bocca e lo condussero in gattabuia.</span>
 
 — In questo caso avete mille ragioni, — disse il carceriere; e levandosi il berretto rispettosamente e salutandolo, gli aprì le porte della prigione e lo lasciò scappare.
 
@@ -1783,7 +1785,8 @@ Aspettò un segno di risposta a quella domanda: ma la risposta non venne: anzi i
 
 — Che sia morto davvero? — disse Pinocchio, dandosi una fregatina di mani dalla gran contentezza; [125] e senza mettere tempo in mezzo, fece l'atto di scavalcarlo, per passare dall'altra parte della strada. Ma non aveva ancora finito di alzare la gamba, che il serpente si rizzò all'improvviso come una molla scattata: e il burattino, nel tirarsi indietro spaventato, inciampò e cadde per terra.
 
-Cadde così male, che restò col capo conficcato nel fango della strada....
+<img src="/images/le-avventure-di-pinocchio/ill125.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Cadde così male, che restò col capo conficcato nel fango della strada....</span>
 
 E per l'appunto cadde così male, che restò col capo conficcato nel fango della strada e colle gambe ritte su in aria.
 
@@ -1837,7 +1840,8 @@ E la sua maraviglia fu grandissima quando, tirata fuori la lanterna di sotto al 
 
 — Chi ruba l'uva è capacissimo di rubare anche [129] i polli. Lascia fare a me, che ti darò una lezione da ricordartene per un pezzo. —
 
-— Ah, ladracchiòlo! dunque sei tu che mi porti via le galline?
+<img src="/images/le-avventure-di-pinocchio/ill129.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Ah, ladracchiòlo! dunque sei tu che mi porti via le galline?</span>
 
 E aperta la tagliuola, afferrò il burattino per la collottola e lo portò di peso fino a casa, come si porterebbe un agnellino di latte.
 
