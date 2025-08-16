@@ -267,7 +267,6 @@ A quel garbo insolente e derisorio, Geppetto si fece tristo e melanconico, come 
 
 — Birba d'un figliuolo! Non sei ancora finito di fare, e già cominci a mancar di rispetto a tuo padre! Male, ragazzo mio, male! —
 
-<!--{{/images/le-avventure-di-pinocchio/ill6.jpg||class="center"|image}}-->
 <img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">E Pinocchio, invece di rendergli la parrucca, se la messe in capo per sè....</span>
 
@@ -285,7 +284,7 @@ Poi prese il burattino sotto le braccia e lo posò in terra, sul pavimento della
 
 Pinocchio aveva le gambe aggranchite e non sapeva muoversi, e Geppetto lo conduceva per la mano per insegnargli a mettere un passo dietro l'altro.
 
-{{/images/le-avventure-di-pinocchio/ill9.jpg||class="center"|image}}
+<img src="/images/le-avventure-di-pinocchio/ill9.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">— Piglialo! piglialo! — urlava Geppetto.</span>
 
 Quando le gambe gli si furono sgranchite, Pinocchio cominciò a camminare da sè e a correre per la stanza; finchè, infilata la porta di casa, saltò nella strada e si dètte a scappare.
@@ -300,7 +299,8 @@ Ma Pinocchio, quando si avvide da lontano del carabiniere, che barricava tutta l
 
 Il carabiniere, senza punto smuoversi lo acciuffò pulitamente per il naso (era un nasone spropositato, che pareva fatto apposta per essere acchiappato dai carabinieri) e lo riconsegnò nelle proprie mani di Geppetto; il quale, a titolo di correzione, voleva dargli subito una buona tiratina d'orecchi. Ma figuratevi come rimase, quando [21] nel cercargli gli orecchi non gli riuscì di poterli trovare: e sapete perchè? perchè, nella furia di scolpirlo, si era dimenticato di farglieli.
 
-Lo acciuffò pulitamente per il naso....
+<img src="/images/le-avventure-di-pinocchio/ill9.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Lo acciuffò pulitamente per il naso....</span>
 
 Allora lo prese per la collottola, e, mentre lo riconduceva indietro, gli disse tentennando minacciosamente il capo:
 
