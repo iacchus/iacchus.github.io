@@ -1894,7 +1894,8 @@ Ed era già più di due ore che dormiva saporitamente, quando verso la mezzanott
 
 — O chi sei?
 
-Una di queste faine, staccandosi dalle sue compagne andò alla buca del casotto.
+<img src="/images/le-avventure-di-pinocchio/ill133.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Una di queste faine, staccandosi dalle sue compagne andò alla buca del casotto.</span>
 
 — Io sono un burattino.
 
@@ -1976,7 +1977,8 @@ E piangendo diceva:
 
 «O Fatina mia, perchè sei morta?... perchè, invece di te, non sono morto io, che sono tanto cattivo, mentre tu eri tanto buona?... E il mio babbo dove sarà? O Fatina mia, dimmi dove posso trovarlo, chè voglio stare sempre con lui, e non lasciarlo più! più! più!... O Fatina mia, dimmi che [139] non è vero che sei morta!... Se davvero mi vuoi bene.... se vuoi bene al tuo fratellino, rivivisci.... ritorna viva come prima! Non ti dispiace a vedermi solo, abbandonato da tutti?... Se arrivano gli assassini, mi attaccheranno daccapo al ramo dell'albero.... e allora morirò per sempre. Che vuoi che io faccia qui solo in questo mondo? Ora che ho perduto te e il mio babbo, chi mi darà da mangiare? Dove anderò a dormire la notte? Chi mi farà la giacchettina nuova? Oh! sarebbe meglio, cento volte meglio, che morissi anch'io! Sì, voglio morire! ih! ih! ih!»
 
-— O Fatina mia perchè sei morta?
+<img src="/images/le-avventure-di-pinocchio/ill139.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— O Fatina mia perchè sei morta?</span>
 
 E mentre si disperava a questo modo, fece l'atto [140] di volersi strappare i capelli: ma i suoi capelli, essendo di legno, non potè nemmeno levarsi il gusto di ficcarci dentro le dita.
 
@@ -2020,7 +2022,8 @@ Il Colombo, a questa risposta, si calò velocemente e venne a posarsi a terra. E
 
 E lì, senza stare a dir altro, Pinocchio saltò sulla groppa al Colombo; e messa una gamba di qui e l'altra di là, come fanno i cavallerizzi, gridò tutto contento: «Galoppa, galoppa, cavallino, chè mi preme di arrivar presto!...» Il Colombo prese l'aìre e in pochi minuti arrivò col volo tanto in alto, che toccava quasi le nuvole. Giunto a quell'altezza straordinaria, il burattino ebbe la curiosità di voltarsi in giù a guardare: e fu preso da [142] tanta paura e da tali giracapi, che per evitare il pericolo di venir di sotto, si avviticchiò colle braccia, stretto stretto, al collo della sua piumata cavalcatura.
 
-Si avviticchiò colle braccia, stretto stretto, al collo della sua piumata cavalcatura.
+<img src="/images/le-avventure-di-pinocchio/ill142.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Si avviticchiò colle braccia, stretto stretto, al collo della sua piumata cavalcatura.</span>
 
 Volarono tutto il giorno. Sul far della sera, il Colombo disse:
 
@@ -2064,7 +2067,8 @@ Intanto la barchetta, sbattuta dall'infuriare dell'onde, ora spariva fra i gross
 
 E parve che Geppetto, sebbene fosse molto lontano dalla spiaggia, riconoscesse il figliuolo, perchè si levò il berretto anche lui e lo salutò e, a furia di gesti, gli fece capire che sarebbe tornato [145] volentieri indietro, ma il mare era tanto grosso, che gl'impediva di lavorare col remo e di potersi avvicinare alla terra.
 
-Pinocchio, non finiva più dal chiamare il suo babbo per nome.
+<img src="/images/le-avventure-di-pinocchio/ill145.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Pinocchio, non finiva più dal chiamare il suo babbo per nome.</span>
 
 Tutt'a un tratto venne una terribile ondata, e la barca sparì. Aspettarono che la barca tornasse a galla: ma la barca non si vide più tornare.
 
@@ -2134,7 +2138,8 @@ Non sapendo come chiamarlo per nome, il burattino gli gridò a voce alta, per fa
 
 — Che è grosso dimolto questo Pesce-cane? — domandò Pinocchio, che di già cominciava a tremare dalla paura.
 
-— Arrivederla, signor pesce: scusi tanto l'incomodo, e mille grazie della sua garbatezza.
+<img src="/images/le-avventure-di-pinocchio/ill150.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Arrivederla, signor pesce: scusi tanto l'incomodo, e mille grazie della sua garbatezza.</span>
 
 — Se gli è grosso!... — replicò il Delfino. — Perchè tu possa fartene un'idea, ti dirò che è più grosso di un casamento di cinque piani, ed ha una boccaccia così larga e profonda, che ci passerebbe comodamente tutto il treno della strada ferrata colla macchina accesa.
 
@@ -2174,7 +2179,8 @@ Pinocchio, giudicandolo alla fisonomia per un buon uomo, gli si accostò e, abba
 
 — Meglio per te! — rispose il carbonaio. — Allora, ragazzo mio, se ti senti davvero morir dalla fame, mangia due belle fette della tua superbia e bada di non prendere un'indigestione. —
 
-— Mi fareste la carità di darmi un soldo perchè mi sento morir dalla fame?
+<img src="/images/le-avventure-di-pinocchio/ill153.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Mi fareste la carità di darmi un soldo perchè mi sento morir dalla fame?</span>
 
 Dopo pochi minuti passò per la via un muratore, che portava sulle spalle un corbello di calcina.
 
@@ -2231,6 +2237,8 @@ Calmati a poco a poco i morsi rabbiosi della fame, allora alzò il capo per ring
 — Che cosa è mai tutta questa meraviglia? — disse ridendo la buona donna.
 
 — Egli è.... — rispose balbettando Pinocchio — [156] egli è.... egli è.... che voi mi somigliate.... voi mi rammentate... sì, sì, sì, la stessa voce.... gli stessi occhi.... gli stessi capelli.... sì sì, sì.... anche voi avete i capelli turchini.... come lei! O Fatina mia!... O Fatina mia!... ditemi che siete voi, proprio voi!... Non mi fate più piangere! Se sapeste! Ho pianto tanto, ho patito tanto!... —
+
+<img src="/images/le-avventure-di-pinocchio/ill156.jpg" class="center"/>
 
 E nel dir così, Pinocchio piangeva dirottamente, e gettatosi ginocchioni per terra abbracciava i ginocchi di quella donnina misteriosa.
 
@@ -2310,7 +2318,8 @@ A questa risposta fu tale e tanta la contentezza di Pinocchio, che prese le mani
 
 — Lo so: ed è per questo che ti ho perdonato. La sincerità del tuo dolore mi fece conoscere che tu avevi il cuore buono: e dai ragazzi buoni di [160] cuore, anche se sono un po' monelli e avvezzati male, c'è sempre da sperar qualcosa: ossia, c'è sempre da sperare che rientrino sulla vera strada. Ecco perchè son venuta a cercarti fin qui. Io sarò la tua mamma....
 
-— Dimmi, mammina: dunque non è vero che tu sia morta?
+<img src="/images/le-avventure-di-pinocchio/ill160.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Dimmi, mammina: dunque non è vero che tu sia morta?</span>
 
 [161]
 
@@ -2380,7 +2389,8 @@ Il solo difetto che avesse era quello di bazzicare troppi compagni; e fra questi
 
 [165]
 
-E anche il maestro se ne lodava, perchè lo vedeva attento, studioso, intelligente.
+<img src="/images/le-avventure-di-pinocchio/ill165.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E anche il maestro se ne lodava, perchè lo vedeva attento, studioso, intelligente.</span>
 
 Il maestro lo avvertiva tutti i giorni, e anche la buona Fata non mancava di dirgli e di ripetergli più volte:
 
@@ -2418,7 +2428,8 @@ Ora avvenne che un bel giorno, mentre camminava verso la scuola, incontrò un br
 
 — Povero giucco! — ribattè uno del branco. — Che credi che un pesce di quella grossezza voglia star lì a fare il comodo tuo? Appena s'è annoiato, piglia il dirizzone per un'altra parte, e allora chi s'è visto s'è visto.
 
-Coi loro libri e i loro quaderni sotto il braccio si mossero a correre attraverso ai campi.
+<img src="/images/le-avventure-di-pinocchio/ill167.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Coi loro libri e i loro quaderni sotto il braccio si mossero a correre attraverso ai campi.</span>
 
 — Quanto tempo ci vuole di qui alla spiaggia? — domandò il burattino.
 
@@ -2516,7 +2527,8 @@ Intanto il combattimento s'inferociva sempre più, quand'ecco che un grosso Gran
 
 — Smettetela, birichini che non siete altro! Queste guerre manesche fra ragazzi e ragazzi raramente vanno a finir bene. Qualche disgrazia accade sempre!... —
 
-Quand'ecco che un grosso Granchio, che era uscito fuori dall'acqua....
+<img src="/images/le-avventure-di-pinocchio/ill173.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Quand'ecco che un grosso Granchio, che era uscito fuori dall'acqua....</span>
 
 Povero Granchio! Fu lo stesso che avesse predicato al vento. Anzi, quella birba di Pinocchio, [174] voltandosi indietro a guardarlo in cagnesco, gli disse sgarbatamente:
 
@@ -2586,7 +2598,8 @@ Quindi si volsero a Pinocchio, e dopo averlo messo in mezzo a loro due, gl'intim
 
 Senza farselo ripetere, il burattino cominciò a camminare per quella viottola, che conduceva al paese. Ma il povero diavolo non sapeva più nemmeno lui in che mondo si fosse. Gli pareva di sognare, e che brutto sogno! Era fuori di sè. I suoi occhi vedevano tutto doppio: le gambe gli tremavano: la lingua gli era rimasta attaccata al palato e non poteva più spiccicare una sola parola. Eppure, in mezzo a quella specie di stupidità e di rintontimento, una spina acutissima gli bucava il cuore: il pensiero, cioè, di dover passare sotto le finestre di casa della sua buona fata, [178] in mezzo ai carabinieri. Avrebbe preferito piuttosto di morire.
 
-Si volsero a Pinocchio, e dopo averlo messo in mezzo a loro due.
+<img src="/images/le-avventure-di-pinocchio/ill178.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Si volsero a Pinocchio, e dopo averlo messo in mezzo a loro due.</span>
 
 Erano già arrivati e stavano per entrare in paese, quando una folata di vento strapazzone levò di testa a Pinocchio il berretto, portandoglielo lontano una diecina di passi.
 
@@ -2608,7 +2621,8 @@ I carabinieri, giudicando che fosse difficile raggiungerlo, gli aizzarono dietro
 
 Durante quella corsa disperata, vi fu un momento terribile, un momento in cui Pinocchio si credè perduto: perchè bisogna sapere che Alidoro (era questo il nome del can mastino) a furia di correre e correre, l'aveva quasi raggiunto.
 
-Sentiva dietro di sè, alla distanza d'un palmo, l'ansare affannoso di quella bestiaccia.
+<img src="/images/le-avventure-di-pinocchio/ill180.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Sentiva dietro di sè, alla distanza d'un palmo, l'ansare affannoso di quella bestiaccia.</span>
 
 Basti dire che il burattino sentiva dietro di sè, [181] alla distanza d'un palmo, l'ansare affannoso di quella bestiaccia, e ne sentiva perfino la vampa calda delle fiatate.
 
@@ -2634,7 +2648,8 @@ A quelle grida strazianti il burattino, che in fondo aveva un cuore eccellente, 
 
 Pinocchio esitò un poco: ma poi ricordandosi che il suo babbo gli aveva detto tante volte che a fare una buona azione non ci si scapita mai, andò nuotando a raggiungere Alidoro, e, presolo per la coda con tutt'e due le mani, lo portò sano e salvo sulla rena asciutta del lido.
 
-Andò nuotando a raggiungere Alidoro, e, presolo per la coda....
+<img src="/images/le-avventure-di-pinocchio/ill182.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Andò nuotando a raggiungere Alidoro, e, presolo per la coda....</span>
 
 Il povero cane non si reggeva più in piedi. Aveva bevuto, senza volerlo, tant'acqua salata, che era gonfiato come un pallone. Per altro il burattino, non volendo fare a fidarsi troppo, stimò [183] cosa prudente di gettarsi novamente in mare; e allontanandosi dalla spiaggia, gridò all'amico salvato:
 
@@ -2692,7 +2707,8 @@ Allora Pinocchio, mortificato di sentirsi scambiato [186] per un granchio, disse
 
 — Ma che granchio e non granchio? Guardi come lei mi tratta! Io, per sua regola, sono un burattino.
 
-— Che razza di pesce è questo?
+<img src="/images/le-avventure-di-pinocchio/ill186.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Che razza di pesce è questo?</span>
 
 — Un burattino? — replicò il pescatore. — Dico la verità, il pesce burattino è per me un pesce nuovo! Meglio così! ti mangerò più volentieri.
 
@@ -2746,7 +2762,8 @@ In quel mentre si udì nella grotta una vocina fioca fioca che disse:
 
 — Salvami, Alidoro! Se non mi salvi, son fritto!... —
 
-— Passa via! — gli gridò il pescatore.
+<img src="/images/le-avventure-di-pinocchio/ill190.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Passa via! — gli gridò il pescatore.</span>
 
 Il cane riconobbe subito la voce di Pinocchio, e si accòrse, con sua grandissima meraviglia, che la vocina era uscita da quel fagotto infarinato, che il pescatore teneva in mano.
 
@@ -2756,7 +2773,8 @@ Il pescatore arrabbiatissimo di vedersi strappar di mano un pesce, che egli avre
 
 Intanto Alidoro, ritrovata che ebbe la viottola che conduceva al paese, si fermò e posò delicatamente in terra l'amico Pinocchio.
 
-Tenendolo leggermente coi denti, esce correndo dalla grotta, e via come un baleno!
+<img src="/images/le-avventure-di-pinocchio/ill191.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Tenendolo leggermente coi denti, esce correndo dalla grotta, e via come un baleno!</span>
 
 — Quanto ti debbo ringraziare! — disse il burattino.
 
@@ -2784,7 +2802,8 @@ Il cane riprese la strada di casa: e Pinocchio, rimasto solo, andò a una capann
 
 [193]
 
-— Dite, galantuomo, sapete nulla di un povero ragazzo ferito nel capo e che si chiamava Eugenio?
+<img src="/images/le-avventure-di-pinocchio/ill193.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Dite, galantuomo, sapete nulla di un povero ragazzo ferito nel capo e che si chiamava Eugenio?</span>
 
 [194]
 
@@ -2830,7 +2849,8 @@ Pinocchio non se lo fece dire due volte: prese subito il sacchetto dei lupini ch
 
 — Come farò a presentarmi alla mia buona Fatina? Che dirà quando mi vedrà?... Vorrà perdonarmi questa seconda birichinata?... Scommetto che non me la perdona!... oh! non me la perdona di certo!... E mi sta il dovere: perchè io sono un monello che prometto sempre di correggermi, e non mantengo mai!... —
 
-E vestito leggerino a quel modo, si avviò verso il paese.
+<img src="/images/le-avventure-di-pinocchio/ill196.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E vestito leggerino a quel modo, si avviò verso il paese.</span>
 
 [197]
 
@@ -2896,7 +2916,8 @@ La mattina, sul far del giorno, finalmente la porta si aprì. Quella brava besti
 
 — La Fata dorme e non vuol essere svegliata.
 
-— Che cosa fate con codesto piede conficcato nell'uscio?
+<img src="/images/le-avventure-di-pinocchio/ill200.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Che cosa fate con codesto piede conficcato nell'uscio?</span>
 
 — Ma che cosa volete che io faccia, inchiodato tutto il giorno a questa porta?
 
@@ -2922,7 +2943,8 @@ Pinocchio promise e giurò che avrebbe studiato, e che si sarebbe condotto sempr
 
 — Domani finalmente il tuo desiderio sarà appagato!
 
-Chi non ha veduto la gioia di Pinocchio, a questa notizia tanto sospirata, non potrà mai figurarsela.
+<img src="/images/le-avventure-di-pinocchio/ill202.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Chi non ha veduto la gioia di Pinocchio, a questa notizia tanto sospirata, non potrà mai figurarsela.</span>
 
 — Cioè?
 
@@ -3144,13 +3166,15 @@ Ma la cosa più singolare era questa: che quelle dodici pariglie, ossia quei ven
 
 E il conduttore del carro?...
 
-Finalmente il carro arrivò....
+<img src="/images/le-avventure-di-pinocchio/ill213.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Finalmente il carro arrivò....</span>
 
 Figuratevi un omino più largo che lungo, tenero e untuoso come una palla di burro, con un visino di melarosa, una bocchina che rideva sempre [215] e una voce sottile e carezzevole, come quella d'un gatto, che si raccomanda al buon cuore della padrona di casa.
 
 Tutti i ragazzi, appena lo vedevano, ne restavano innamorati e facevano a gara nel montare sul suo carro, per esser condotti da lui in quella vera cuccagna, conosciuta nella carta geografica col seducente nome di «Paese de' balocchi.»
 
-Figuratevi un omino più largo che lungo, tenero e untuoso come una palla di burro.
+<img src="/images/le-avventure-di-pinocchio/ill215.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Figuratevi un omino più largo che lungo, tenero e untuoso come una palla di burro.</span>
 
 Difatti il carro era già tutto pieno di ragazzetti [216] fra gli otto e i dodici anni, ammonticchiati gli uni sugli altri come tante acciughe nella salamoia. Stavano male, stavano pigiati, non potevano quasi respirare: ma nessuno diceva ohi! nessuno si lamentava. La consolazione di sapere che fra poche ore sarebbero giunti in un paese, dove non c'erano nè libri, nè scuole, nè maestri, li rendeva così contenti e rassegnati, che non sentivano nè i disagi, nè gli strapazzi, nè la fame, nè la sete, nè il sonno.
 
@@ -3174,7 +3198,8 @@ Appena che il carro si fu fermato, l'omino si volse a Lucignolo, e con mille smo
 
 — No, no, no!
 
-— E se vengo con voi, che cosa dirà la mia buona Fata?
+<img src="/images/le-avventure-di-pinocchio/ill217.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— E se vengo con voi, che cosa dirà la mia buona Fata?</span>
 
 — Vieni con noi e staremo allegri! — gridarono altre quattro voci di dentro al carro.
 
@@ -3204,7 +3229,8 @@ Ma l'omino non rise. Si accostò pieno di amorevolezza al ciuchino ribelle, e, f
 
 Intanto Pinocchio, rizzatosi da terra tutto infuriato, [219] schizzò con un salto sulla groppa di quel povero animale. E il salto fu così bello, che i ragazzi, smesso di ridere, cominciarono a urlare: viva Pinocchio! e a fare una smanacciata di applausi, che non finivano più.
 
-Dando una fortissima sgropponata, scaraventò il povero burattino in mezzo alla strada.
+<img src="/images/le-avventure-di-pinocchio/ill219.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Dando una fortissima sgropponata, scaraventò il povero burattino in mezzo alla strada.</span>
 
 Quand'ecco che all'improvviso il ciuchino alzò tutt'e due le gambe di dietro, e dando una fortissima sgropponata, scaraventò il povero burattino in mezzo alla strada, sopra un monte di ghiaia.
 
@@ -3244,7 +3270,8 @@ E immaginatevi come restò, quando s'accòrse che il suo ciuchino piangeva.... e
 
 Pinocchio obbedì senza rifiatare. Il carro riprese la sua corsa: e la mattina sul far dell'alba arrivarono felicemente nel «Paese dei balocchi.»
 
-La sua popolazione era tutta composta di ragazzi.
+<img src="/images/le-avventure-di-pinocchio/ill222.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">La sua popolazione era tutta composta di ragazzi.</span>
 
 Questo paese non somigliava a nessun altro paese del mondo. La sua popolazione era tutta composta di ragazzi. I più vecchi avevano 14 anni: i più giovani ne avevano 8 appena. Nelle strade, un'allegria, un chiasso, uno strillìo da levar di cervello! Branchi di monelli da per tutto: chi [223] giocava alle noci, chi alle piastrelle, chi alla palla, chi andava in velocipede, chi sopra un cavallino di legno: questi facevano a moscacieca; quegli altri si rincorrevano: altri, vestiti da pagliacci, mangiavano la stoppa accesa: chi recitava, chi cantava, chi faceva i salti mortali, chi si divertiva a camminare colle mani in terra e colle gambe in aria: chi mandava il cerchio, chi passeggiava vestito da generale coll'elmo di foglio e lo squadrone di cartapesta: chi rideva, chi urlava, chi chiamava, chi batteva le mani, chi fischiava, chi rifaceva il verso alla gallina quando ha fatto l'ovo: insomma un tal pandemonio, un tal passeraio, un tal baccano indiavolato, da doversi mettere il cotone negli orecchi per non rimanere assorditi. Su tutte le piazze si vedevano teatrini di tela, affollati di ragazzi dalla mattina alla sera, e su tutti i muri delle case si leggevano scritte col carbone delle bellissime cose come queste: viva i balocci! (invece di balocchi): non voliamo più schole (invece di non vogliamo più scuole): abbasso Larin Metica (invece di aritmetica) e altri fiori consimili.
 
