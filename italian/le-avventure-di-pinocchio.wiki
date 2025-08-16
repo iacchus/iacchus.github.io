@@ -60,7 +60,8 @@ Não era uma madeira nobre, mas um simples pedaço de madeira de pilha de lenha,
 
 [6]
 
-Non so come andasse, ma il fatto gli è che un bel giorno questo pezzo di legno capitò nella bottega di un vecchio falegname, il quale aveva nome mastr'Antonio, se non che tutti lo chiamavano maestro Ciliegia, per via della punta del suo naso, che era sempre lustra e paonazza, come una ciliegia matura.
+*Non so come andasse, ma il fatto gli è che un bel giorno questo pezzo di legno capitò nella bottega di un vecchio falegname, il quale aveva nome mastr'Antonio, se non che tutti lo chiamavano maestro Ciliegia, per via della punta del suo naso, che era sempre lustra e paonazza, come una ciliegia matura.*
+Não sei como aconteceu, mas o fato é que um belo dia esse pedaço de lenha acabou na oficina de um velho carpinteiro, o qual tinha o nome de mestre Antônio, ainda que todos o chamassem de Mestre Ciliegia, por causa da ponta do seu nariz, que era sempre brilhante e roxa, como uma cereja madura.
 
 {{/images/le-avventure-di-pinocchio/ill6.jpg||class="center"|image}}
 <span class="imagetext pinocchio-imagetext">.... sentì una vocina sottile sottile.</span>
