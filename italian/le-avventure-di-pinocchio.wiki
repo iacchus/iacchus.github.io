@@ -7,19 +7,26 @@
 
 ----
 
+<span style='width: 100%; display: inline-block; text-align: center;'>*CARLO COLLODI*</span>
 <span style='width: 100%; display: inline-block; text-align: center;'>CARLO COLLODI</span>
 
-<span style='width: 100%; display: inline-block; text-align: center;'>Le Avventure di Pinocchio</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>*Le Avventure di Pinocchio*</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>As Aventuras de Pinocchio</span>
 
-<span style='width: 100%; display: inline-block; text-align: center;'>Storia di un burattino</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>*Storia di un burattino*</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>História de um fantoche</span>
 
-<span style='width: 100%; display: inline-block; text-align: center;'>illustrata da</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>*illustrata da*</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>ilustrada por</span>
 
+<span style='width: 100%; display: inline-block; text-align: center;'>*CARLO CHIOSTRI*</span>
 <span style='width: 100%; display: inline-block; text-align: center;'>CARLO CHIOSTRI</span>
 
-<span style='width: 100%; display: inline-block; text-align: center;'>Incisioni di A. Bongini</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>*Incisioni di A. Bongini*</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>Incisões de A. Bongini</span>
 
-<span style='width: 100%; display: inline-block; text-align: center;'>Nuova edizione</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>*Nuova edizione*</span>
+<span style='width: 100%; display: inline-block; text-align: center;'>Nova edição</span>
 
 <span style='width: 100%; display: inline-block; text-align: center;'>FIRENZE</span>
 <span style='width: 100%; display: inline-block; text-align: center;'>R. Bemporad & Figlio — Editori.</span>
