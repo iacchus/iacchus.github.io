@@ -1,4 +1,5 @@
   = Le Avventure di Pinocchio =
+  == As Aventuras de Pinocchio ==
   
 %title Le Avventure di Pinocchio
 
@@ -42,13 +43,17 @@
 
   == I. ==
 
-<span class="subtitle pinocchio-subtitle">Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.</span>
+<span class="subtitle pinocchio-subtitle">*Come andò che Maestro Ciliegia, falegname trovò un pezzo di legno che piangeva e rideva come un bambino.*</span>
+<span class="subtitle pinocchio-subtitle">Como aconteceu que Mestre Ciliegia, carpinteiro, encontrou um pedaço de lenha que chorava e ria como um menino.</span>
 
-— C'era una volta....
+*— C'era una volta....*
+— Era uma vez...
 
-— Un re! — diranno subito i miei piccoli lettori.
+*— Un re! — diranno subito i miei piccoli lettori.*
+— Um rei! — dirão meus pequenos leitores.
 
-— No, ragazzi, avete sbagliato. C'era una volta un pezzo di legno.
+*— No, ragazzi, avete sbagliato. C'era una volta un pezzo di legno.*
+— Não, meninos, vocês erraram. Era um pedaço de lenha.
 
 Non era un legno di lusso, ma un semplice pezzo da catasta, di quelli che d'inverno si mettono nelle stufe e nei caminetti per accendere il fuoco e per riscaldare le stanze.
 
