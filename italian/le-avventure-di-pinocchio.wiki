@@ -44,8 +44,6 @@
 
 ----
 
-[5]
-
 {{/images/le-avventure-di-pinocchio/ill5.jpg||class="center"|image}}
 
   == I. ==
@@ -70,7 +68,7 @@ Não era uma madeira nobre, mas um simples pedaço de madeira de pilha de lenha,
 *Non so come andasse, ma il fatto gli è che un bel giorno questo pezzo di legno capitò nella bottega di un vecchio falegname, il quale aveva nome mastr'Antonio, se non che tutti lo chiamavano maestro Ciliegia, per via della punta del suo naso, che era sempre lustra e paonazza, come una ciliegia matura.*
 Não sei como aconteceu, mas o fato é que um belo dia esse pedaço de lenha acabou na oficina de um velho carpinteiro, o qual tinha o nome de mestre Antônio, ainda que todos o chamassem de Mestre Ciliegia, por causa da ponta do seu nariz, que era sempre brilhante e roxa, como uma cereja madura.
 
-{{/images/le-avventure-di-pinocchio/ill6.jpg||class="center"|image}}
+<img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">.... sentì una vocina sottile sottile.</span>
 
 Appena maestro Ciliegia ebbe visto quel pezzo di legno, si rallegrò tutto; e dandosi una fregatina di mani per la contentezza, borbottò a mezza voce:
@@ -124,7 +122,7 @@ In quel punto fu bussato alla porta.
 
 — Passate pure, — disse il falegname, senza aver la forza di rizzarsi in piedi.
 
-{{/images/le-avventure-di-pinocchio/ill10.jpg||class="center"|image}}
+<img src="/images/le-avventure-di-pinocchio/ill10.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">Un vecchietto tutto arzillo, il quale aveva nome Geppetto.</span>
 
 Allora entrò in bottega un vecchietto tutto arzillo, il quale aveva nome Geppetto; ma i ragazzi del vicinato, quando lo volevano far montare su [11] tutte le furie, lo chiamavano col soprannome di Polendina, a motivo della sua parrucca gialla, che somigliava moltissimo alla polendina di granturco.
@@ -223,7 +221,7 @@ A sentirsi chiamar Polendina per la terza volta, Geppetto perse il lume degli oc
 
 A battaglia finita, mastr'Antonio si trovò due graffi di più sul naso, e quell'altro due bottoni di meno al giubbetto. Pareggiati in questo modo i loro conti, si strinsero la mano e giurarono di rimanere buoni amici per tutta la vita.
 
-{{/images/le-avventure-di-pinocchio/ill14.jpg||class="center"|image}}
+<img src="/images/le-avventure-di-pinocchio/ill14.jpg" class="center"/>
 
 Intanto Geppetto prese con sè il suo bravo pezzo di legno, e ringraziato mastr'Antonio, se ne tornò zoppicando a casa.
 
@@ -244,7 +242,7 @@ Quando ebbe trovato il nome al suo burattino, allora cominciò a lavorare a buon
 
 Fatti gli occhi, figuratevi la sua maraviglia quando si accòrse che gli occhi si movevano e che lo guardavano fisso fisso.
 
-{{/images/le-avventure-di-pinocchio/ill16.jpg||class="center"|image}}
+<img src="/images/le-avventure-di-pinocchio/ill16.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">Più lo ritagliava e lo scorciva, e più quel naso impertinente diventava lungo.</span>
 
 Geppetto vedendosi guardare da quei due occhi di legno, se n'ebbe quasi per male, e disse con accento risentito:
@@ -281,7 +279,7 @@ A quel garbo insolente e derisorio, Geppetto si fece tristo e melanconico, come 
 
 — Birba d'un figliuolo! Non sei ancora finito di fare, e già cominci a mancar di rispetto a tuo padre! Male, ragazzo mio, male! —
 
-<img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
+<img src="/images/le-avventure-di-pinocchio/ill18.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">E Pinocchio, invece di rendergli la parrucca, se la messe in capo per sè....</span>
 
 E si rasciugò una lacrima.
