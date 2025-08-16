@@ -1459,7 +1459,7 @@ La Fata andò, e chiuse l'uscio di camera.
 
 A questo punto, la porta della camera si spalancò, [99] ed entrarono dentro quattro conigli neri come l'inchiostro, che portavano sulle spalle una piccola bara da morto.
 
-<img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
+<img src="/images/le-avventure-di-pinocchio/ill99.jpg" class="center"/>
 <span class="imagetext pinocchio-imagetext">Entrarono dentro quattro conigli neri come l'inchiostro.</span>
 
 — Che cosa volete da me? — gridò Pinocchio, rizzandosi tutto impaurito a sedere sul letto.
