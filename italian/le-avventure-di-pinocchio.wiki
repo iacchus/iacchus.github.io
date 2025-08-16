@@ -1849,7 +1849,8 @@ Arrivato che fu sull'aia dinanzi alla casa, lo scaraventò in terra: e tenendogl
 
 — Oramai è tardi e voglio andare a letto. I nostri [130] conti gli aggiusteremo domani. Intanto, siccome oggi m'è morto il cane che mi faceva la guardia di notte, tu prenderai subito il suo posto. Tu mi farai da cane di guardia. —
 
-— Tu puoi andare a cuccia in quel casotto di legno.
+<img src="/images/le-avventure-di-pinocchio/ill130.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Tu puoi andare a cuccia in quel casotto di legno.</span>
 
 Detto fatto, gl'infilò al collo un grosso collare tutto coperto di spunzoni d'ottone, e glielo strinse in modo, da non poterselo levare passandoci la testa di dentro. Al collare c'era attaccata una lunga catenella di ferro: e la catenella era fissata nel muro.
 
