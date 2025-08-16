@@ -3307,7 +3307,8 @@ Si accòrse, con suo grandissimo stupore, che gli orecchi gli erano cresciuti pi
 
 Voi sapete che il burattino, fin dalla nascita, aveva gli orecchi piccini piccini: tanto piccini che, a occhio nudo, non si vedevano neppure! Immaginatevi dunque come restò, quando dovè toccar con mano che i suoi orecchi, durante la notte, erano così allungati, che parevano due spazzole di padule. Andò subito in cerca di uno specchio, per potersi vedere: ma non trovando uno specchio, empì d'acqua la catinella del lavamano, e [227] specchiandovisi dentro, vide quel che non avrebbe mai voluto vedere: vide, cioè, la sua immagine abbellita di un magnifico paio di orecchi asinini. Lascio pensare a voi il dolore, la vergogna, e la disperazione del povero Pinocchio!
 
-I suoi orecchi, durante la notte, erano così allungati, che parevano due spazzole di padule.
+<img src="/images/le-avventure-di-pinocchio/ill227.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">I suoi orecchi, durante la notte, erano così allungati, che parevano due spazzole di padule.</span>
 
 Cominciò a piangere, a strillare, a battere la testa nel muro: ma quanto più si disperava, e più i suoi orecchi crescevano, crescevano, crescevano e diventavano pelosi verso la cima.
 
@@ -3343,7 +3344,8 @@ La Marmottina alzò la zampa destra davanti: e dopo aver tastato il polso a Pino
 
 — Oh! povero me! povero me! — gridò Pinocchio pigliandosi con le mani tutt'e due gli orecchi, e tirandoli e strappandoli rabbiosamente, come se fossero gli orecchi di un altro.
 
-— È la febbre del somaro.
+<img src="/images/le-avventure-di-pinocchio/ill229.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— È la febbre del somaro.</span>
 
 — Caro mio, — replicò la Marmottina per consolarlo — che cosa ci vuoi tu fare? Oramai è destino, oramai è scritto nei decreti della sapienza, che tutti quei ragazzi svogliati che, pigliando a noia i libri, le scuole e i maestri, passano le loro giornate in balocchi, in giuochi e in divertimenti, [230] debbano finire prima o poi col trasformarsi in tanti piccoli somari.
 
@@ -3361,7 +3363,8 @@ La Marmottina alzò la zampa destra davanti: e dopo aver tastato il polso a Pino
 
 — Perchè?... perchè, Marmottina mia, io sono un burattino senza giudizio.... e senza cuore. Oh! se avessi avuto un zinzino di cuore, non avrei mai abbandonata quella buona Fata, che mi voleva bene come una mamma e che aveva fatto tanto per me!... e a quest'ora non sarei più un burattino.... ma sarei invece un ragazzino ammodo, come ce n'è tanti! Oh!... ma se incontro Lucignolo, [231] guai a lui! Gliene voglio dire un sacco e una sporta. —
 
-Prese un gran berretto di cotone, e, ficcatoselo in testa.
+<img src="/images/le-avventure-di-pinocchio/ill231.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Prese un gran berretto di cotone, e, ficcatoselo in testa.</span>
 
 E fece l'atto di volere uscire. Ma quando fu sulla porta, si ricordò che aveva gli orecchi d'asino, e vergognandosi di mostrarli in pubblico, che cosa inventò? Prese un gran berretto di cotone, e, ficcatoselo in testa, se lo ingozzò fin sotto gli orecchi.
 
@@ -3459,7 +3462,8 @@ E allora avvenne una scena, che parrebbe incredibile, se non fosse vera. Avvenne
 
 [235]
 
-Cominciarono ad ammiccarsi i loro orecchi smisuratamente cresciuti.
+<img src="/images/le-avventure-di-pinocchio/ill235.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Cominciarono ad ammiccarsi i loro orecchi smisuratamente cresciuti.</span>
 
 E risero, risero, risero da doversi reggere il corpo: se non che, sul più bello del ridere, Lucignolo tutt'a un tratto si chetò, e barcollando e cambiando di colore, disse all'amico:
 
@@ -3473,7 +3477,8 @@ E risero, risero, risero da doversi reggere il corpo: se non che, sul più bello
 
 — Non mi riesce più neanche a me — gridò Pinocchio, piangendo e traballando.
 
-Ragliando sonoramente, facevano tutt'e due in coro: j-a, j-a, j-a.
+<img src="/images/le-avventure-di-pinocchio/ill236.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Ragliando sonoramente, facevano tutt'e due in coro: j-a, j-a, j-a.</span>
 
 E mentre dicevano così, si piegarono tutt'e due carponi a terra e, camminando colle mani e coi piedi, cominciarono a girare e a correre per la stanza. E intanto che correvano, i loro bracci diventarono zampe, i loro visi si allungarono e diventarono musi, e le loro schiene si coprirono di un pelame grigiolino chiaro, brizzolato di nero.
 
@@ -3507,7 +3512,8 @@ E quando a furia di strigliarli, li ebbe fatti lustri come due specchi, allora m
 
 E i compratori, difatti, non si fecero aspettare. Lucignolo fu comprato da un contadino, a cui era morto il somaro il giorno avanti, e Pinocchio fu venduto al Direttore di una compagnia di pagliacci e di saltatori di corda, il quale lo comprò per ammaestrarlo e per farlo poi saltare e ballare insieme con le altre bestie della compagnia.
 
-Li condusse sulla piazza del mercato, con la speranza di venderli.
+<img src="/images/le-avventure-di-pinocchio/ill239.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Li condusse sulla piazza del mercato, con la speranza di venderli.</span>
 
 E ora avete capito, miei piccoli lettori, qual era il bel mestiere che faceva l'omino? Questo brutto mostriciattolo, che aveva la fisonomia tutta di latte e miele, andava di tanto in tanto con un carro a girare per il mondo; strada facendo raccoglieva con promesse e con moine tutti i ragazzi [240] svogliati, che avevano a noia i libri e le scuole; e dopo averli caricati sul suo carro, gli conduceva nel «Paese dei balocchi» perchè passassero tutto il loro tempo in giuochi, in chiassate e in divertimenti. Quando poi quei poveri ragazzi illusi, a furia di baloccarsi sempre e di non studiar mai, diventavano tanti ciuchini, allora tutto allegro e contento s'impadroniva di loro e li portava a vendere sulle fiere e su i mercati. E così in pochi anni aveva fatto fior di quattrini ed era diventato milionario.
 
@@ -3552,6 +3558,9 @@ Allora prese una boccata di paglia tritata: e in quel mentre che la stava mastic
 Il povero Pinocchio, o per amore o per forza, dovè imparare tutte queste bellissime cose; ma, per impararle, gli ci vollero tre mesi di lezioni, e molte frustate da levare il pelo.
 
 Venne finalmente il giorno, in cui il suo padrone potè annunziare uno spettacolo veramente [243] straordinario. I cartelloni di vario colore, attaccati alle cantonate delle strade, dicevano così:
+
+<img src="/images/le-avventure-di-pinocchio/ill243.jpg" class="center"/>
+
 GRANDE SPETTACOLO DI GALA - Per questa sera AVRANNO LUOGO I SOLITI SALTI ED ESERCIZI SORPRENDENTI ESEGUITI DA TUTTI GLI ARTISTI e da tutti i cavalli d'ambo i sessi della Compagnia e più - Sarà presentato per la prima volta il famoso CIUCHINO PINOCCHIO detto LA STELLA DELLA DANZA - Il teatro sarà illuminato a giorno
 
 Quella sera, come potete figurarvelo, un'ora prima che cominciasse lo spettacolo, il teatro era pieno stipato.
@@ -3596,7 +3605,8 @@ Dopo un poco il Direttore gridò:
 
 — Alla carriera! — e Pinocchio si dette a correre, di gran carriera. Ma in quella che correva come un barbero, il Direttore, alzando il braccio in aria, iscaricò un colpo di pistola.
 
-Pinocchio ubbidiente piegò subito i due ginocchi davanti.
+<img src="/images/le-avventure-di-pinocchio/ill247.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Pinocchio ubbidiente piegò subito i due ginocchi davanti.</span>
 
 A quel colpo il ciuchino, fingendosi ferito, cadde disteso nel Circo, come se fosse moribondo davvero.
 
@@ -3636,7 +3646,8 @@ Allora il Direttore disse al suo garzone di stalla:
 
 — Che vuoi tu che mi faccia d'un somaro zoppo? [250] Sarebbe un mangiapane a ufo. Portalo dunque in piazza e rivendilo. —
 
-Il ciuchino, con quel macigno al collo, andò subito a fondo.
+<img src="/images/le-avventure-di-pinocchio/ill250.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Il ciuchino, con quel macigno al collo, andò subito a fondo.</span>
 
 Arrivati in piazza, trovarono subito il compratore, il quale domandò al garzone di stalla:
 
@@ -3674,7 +3685,8 @@ Riavutosi un poco del suo primo stupore, disse piangendo e balbettando:
 
 — E il ciuchino che ho gettato in mare dov'è?...
 
-Invece di un ciuchino morto, vide apparire a fior d'acqua un burattino vivo.
+<img src="/images/le-avventure-di-pinocchio/ill253.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Invece di un ciuchino morto, vide apparire a fior d'acqua un burattino vivo.</span>
 
 — Quel ciuchino son io! — rispose il burattino, ridendo.
 
@@ -3756,7 +3768,8 @@ E Pinocchio, raccogliendo tutte le sue forze, raddoppiava di lena nella corsa.
 
 — Bada, Pinocchio!... il mostro ti raggiunge! Eccolo!... Eccolo!... Affrettati, per carità, o sei perduto!... —
 
-E Pinocchio nuotava disperatamente con le braccia, col petto, con le gambe e coi piedi.
+<img src="/images/le-avventure-di-pinocchio/ill260.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E Pinocchio nuotava disperatamente con le braccia, col petto, con le gambe e coi piedi.</span>
 
 E Pinocchio a nuotare più lesto che mai, e via, via, e via, come anderebbe una palla di fucile. E già si accostava allo scoglio, e già la caprettina spenzolandosi tutta sul mare, gli porgeva le sue zampine davanti per aiutarlo a uscir fuori dell'acqua.... Ma!...
 
@@ -3830,13 +3843,15 @@ E nel camminare sentì che i suoi piedi sguazzavano in una pozzanghera d'acqua g
 
 E più andava avanti, e più il chiarore si faceva rilucente e distinto: finchè, cammina cammina, alla fine arrivò: e quando fu arrivato.... che cosa trovò? Ve lo do a indovinare in mille: trovò una piccola tavola apparecchiata, con sopra una candela accesa infilata in una bottiglia di cristallo verde, e seduto a tavola un vecchiettino tutto [265] bianco, come se fosse di neve o di panna montata; il quale se ne stava lì biascicando alcuni pesciolini vivi, ma tanto vivi, che alle volte, mentre li mangiava, gli scappavano perfino di bocca.
 
-E più andava avanti, e più il chiarore si faceva rilucente.
+<img src="/images/le-avventure-di-pinocchio/ill265.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E più andava avanti, e più il chiarore si faceva rilucente.</span>
 
 A quella vista il povero Pinocchio ebbe un'allegrezza così grande e così inaspettata, che ci mancò un ètte che non cadesse in delirio. Voleva ridere, voleva piangere, voleva dire un monte di cose; e invece mugolava confusamente e balbettava delle parole tronche e sconclusionate. Finalmente [266] gli riuscì di cacciar fuori un grido di gioia, e spalancando le braccia e gettandosi al collo del vecchietto, cominciò a urlare:
 
 — Oh! babbino mio! finalmente vi ho ritrovato! Ora poi non vi lascio più, mai più, mai più!
 
-Gettandosi al collo del vecchietto, cominciò a urlare.
+<img src="/images/le-avventure-di-pinocchio/ill266.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Gettandosi al collo del vecchietto, cominciò a urlare.</span>
 
 — Dunque gli occhi mi dicono il vero? — replicò il vecchietto, stropicciandosi gli occhi. — Dunque tu se' proprio il mi' caro Pinocchio?
 
@@ -3902,7 +3917,8 @@ Ciò detto, Pinocchio prese il suo babbo per la mano: e camminando sempre in pun
 
 — Montatemi a cavalluccio sulle spalle e abbracciatemi forte forte. Al resto ci penso io. —
 
-Si gettò nell'acqua e cominciò a nuotare.
+<img src="/images/le-avventure-di-pinocchio/ill273.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Si gettò nell'acqua e cominciò a nuotare.</span>
 
 Appena Geppetto si fu accomodato per bene [275] sulle spalle del figliuolo, il bravo Pinocchio, sicuro del fatto suo, si gettò nell'acqua e cominciò a nuotare. Il mare era tranquillo come un olio: la luna splendeva in tutto il suo chiarore, e il Pesce-cane seguitava a dormire di un sonno così profondo, che non l'avrebbe svegliato nemmeno una cannonata.
 
@@ -3948,7 +3964,8 @@ E padre e figliuolo erano oramai sul punto di affogare, quando udirono una voce 
 
 — Volentieri e con tutto il cuore. Attaccatevi tutt'e due alla mia coda, e lasciatevi guidare. In quattro minuti vi condurrò alla riva. —
 
-Giudicarono più comodo di mettersi addirittura a sedere sulla groppa del Tonno.
+<img src="/images/le-avventure-di-pinocchio/ill278.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Giudicarono più comodo di mettersi addirittura a sedere sulla groppa del Tonno.</span>
 
 Geppetto e Pinocchio, come potete immaginarvelo, accettarono subito l'invito; ma invece di attaccarsi alla coda, giudicarono più comodo di mettersi addirittura a sedere sulla groppa del Tonno.
 
@@ -3970,7 +3987,8 @@ Allora Pinocchio, offrendo il suo braccio a Geppetto, che aveva appena il fiato 
 
 — Appoggiatevi pure al mio braccio, caro babbino, [280] e andiamo. Cammineremo pian pianino come le formicole, e quando saremo stanchi, ci riposeremo lungo la via.
 
-Pinocchio, piegandosi coi ginocchi a terra, gli posò un affettuosissimo bacio sulla bocca.
+<img src="/images/le-avventure-di-pinocchio/ill280.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Pinocchio, piegandosi coi ginocchi a terra, gli posò un affettuosissimo bacio sulla bocca.</span>
 
 — E dove dobbiamo andare? — domandò Geppetto.
 
@@ -4020,7 +4038,8 @@ Difatti andarono, e bussarono alla porta.
 
 Pinocchio girò la chiave, e la porta si aprì. Appena entrati dentro, guardarono di qua, guardarono di là, e non videro nessuno.
 
-— Addio, mascherine! Ricordatevi del proverbio che dice: “Chi ruba il mantello al suo prossimo, per il solito muore senza camicia.„
+<img src="/images/le-avventure-di-pinocchio/ill283.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Addio, mascherine! Ricordatevi del proverbio che dice: “Chi ruba il mantello al suo prossimo, per il solito muore senza camicia.„</span>
 
 [285]
 
@@ -4098,7 +4117,8 @@ Giangio condusse il burattino nell'orto e gl'insegnò la maniera di girare il bi
 
 — Volentieri. —
 
-E chinatosi fino a lui, gli domandò in dialetto asinino: — Chi sei? —
+<img src="/images/le-avventure-di-pinocchio/ill288.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E chinatosi fino a lui, gli domandò in dialetto asinino: — Chi sei? —</span>
 
 Appena che Pinocchio fu entrato nella stalla; vide un bel ciuchino disteso sulla paglia, rifinito dalla fame e dal troppo lavoro. Quando l'ebbe guardato fisso fisso, disse dentro di sè, turbandosi:
 
@@ -4192,7 +4212,8 @@ In mezzo a tutte queste meraviglie, che si succedevano le une alle altre, Pinocc
 
 — E il mio babbo dov'è? — gridò tutt'a un tratto; ed entrato nella stanza accanto trovò il vecchio Geppetto sano, arzillo e di buon umore, come una volta, il quale, avendo ripreso subito la sua professione d'intagliatore, stava appunto [295] disegnando una bellissima cornice ricca di fogliami, di fiori e di testine di diversi animali.
 
-Gli accennò un grosso burattino appoggiato a una seggiola.
+<img src="/images/le-avventure-di-pinocchio/ill295.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Gli accennò un grosso burattino appoggiato a una seggiola.</span>
 
 — Levatemi una curiosità, babbino: ma come si spiega tutto questo cambiamento improvviso? — gli domandò Pinocchio saltandogli al collo e coprendolo di baci.
 
