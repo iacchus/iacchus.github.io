@@ -1965,11 +1965,11 @@ Arrivato sulla strada maestra, si voltò in giù a guardare nella sottoposta pia
 
 Allora ebbe una specie di tristo presentimento; e datosi a correre con quanta forza gli rimaneva nelle gambe, si trovò in pochi minuti sul prato, [138] dove sorgeva una volta la Casina bianca. Ma la Casina bianca non c'era più. C'era, invece, una piccola pietra di marmo, sulla quale si leggevano in carattere stampatello queste dolorose parole:
 
-QUI GIACE
+<span style="width: 100%; display: inline-block; text-align: center; font-family: 'Roboto Mono', monospace;">QUI GIACE
 LA BAMBINA DAI CAPELLI TURCHINI
 MORTA DI DOLORE
 PER ESSERE STATA ABBANDONATA DAL SUO
-FRATELLINO PINOCCHIO.
+FRATELLINO PINOCCHIO.</span>
 
 Come rimanesse il burattino, quand'ebbe compitate alla peggio quelle parole, lo lascio pensare a voi. Cadde bocconi a terra, e coprendo di mille baci quel marmo mortuario, dètte in un grande scoppio di pianto. Pianse tutta la notte, e la mattina dopo, sul far del giorno, piangeva sempre, sebbene negli occhi non avesse più lacrime: e le sue grida e i suoi lamenti erano così strazianti ed acuti, che tutte le colline all'intorno ne ripetevano l'eco.
 
