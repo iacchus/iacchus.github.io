@@ -919,7 +919,8 @@ Il giorno dipoi Mangiafoco chiamò in disparte Pinocchio e gli domandò:
 
 Pinocchio, come è facile immaginarselo, ringraziò [65] mille volte il burattinaio: abbracciò, a uno a uno, tutti i burattini della compagnia, anche i giandarmi; e fuori di sè dalla contentezza, si mise in viaggio per ritornarsene a casa sua.
 
-— Com'è che sai il mio nome?
+<img src="/images/le-avventure-di-pinocchio/ill65.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Com'è che sai il mio nome?</span>
 
 Ma non aveva fatto ancora mezzo chilometro, che incontrò per la strada una Volpe zoppa da un piede e un Gatto cieco da tutt'e due gli occhi, che se ne andavano là là, aiutandosi fra di loro, da buoni compagni di sventura. La Volpe, che era zoppa, camminava appoggiandosi al Gatto: e il Gatto, che era cieco, si lasciava guidare dalla Volpe.
 
@@ -977,7 +978,8 @@ Mangiato che l'ebbe e ripulitosi la bocca, chiuse gli occhi daccapo e ricominci�
 
 — Povero Merlo! — disse Pinocchio al Gatto — perchè l'hai trattato così male?
 
-Spiccando un gran salto, gli si avventò addosso.
+<img src="/images/le-avventure-di-pinocchio/ill68.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Spiccando un gran salto, gli si avventò addosso.</span>
 
 — Ho fatto per dargli una lezione. Così un'altra volta imparerà a non metter bocca nei discorsi degli altri. —
 
@@ -1055,7 +1057,8 @@ Il povero Gatto, sentendosi gravemente indisposto di stomaco, non potè mangiare
 
 La Volpe avrebbe spelluzzicato volentieri qualche cosa anche lei: ma siccome il medico le aveva ordinato una grandissima dieta, così dovè contentarsi di una semplice lepre dolce e forte, con [73] un leggerissimo contorno di pollastre ingrassate e di galletti di primo canto. Dopo la lepre si fece portare per tornagusto un cibreino di pernici, di starne, di conigli, di ranocchi, di lucertole e d'uva paradisa; e poi non volle altro.
 
-Quello che mangiò meno di tutti fu Pinocchio.
+<img src="/images/le-avventure-di-pinocchio/ill73.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Quello che mangiò meno di tutti fu Pinocchio.</span>
 
 Aveva tanta nausea per il cibo, diceva lei, che non poteva accostarsi nulla alla bocca.
 
@@ -1081,7 +1084,8 @@ Era l'oste che veniva a dirgli che la mezzanotte era sonata.
 
 — Perchè il Gatto ha ricevuto un'imbasciata che il suo gattino maggiore, malato di geloni ai piedi, stava in pericolo di vita.
 
-Era l'oste che veniva a dirgli che la mezzanotte era sonata.
+<img src="/images/le-avventure-di-pinocchio/ill75.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Era l'oste che veniva a dirgli che la mezzanotte era sonata.</span>
 
 — E la cena l'hanno pagata?
 
@@ -1161,7 +1165,8 @@ Pinocchio non potendo rispondere con le parole a motivo delle monete che aveva i
 
 E il burattino fece col capo e colle mani un segno, come dire: «Non ne ho.»
 
-Sentì agguantarsi per le braccia....
+<img src="/images/le-avventure-di-pinocchio/ill80.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Sentì agguantarsi per le braccia....</span>
 
 — Metti fuori i denari o sei morto; — disse l'assassino più alto di statura.
 
@@ -1263,6 +1268,8 @@ Annoiati finalmente di aspettare, si voltarono a Pinocchio e gli dissero sghigna
 
 E se ne andarono.
 
+<img src="/images/le-avventure-di-pinocchio/ill87.jpg" class="center"/>
+
 Intanto s'era levato un vento impetuoso di tramontana, che soffiando e mugghiando con rabbia, sbatacchiava in qua e in là il povero [88] impiccato, facendolo dondolare violentemente come il battaglio d'una campana che suona a festa. E quel dondolìo gli cagionava acutissimi spasimi, e il nodo scorsoio, stringendosi sempre più alla gola, gli toglieva il respiro.
 
 A poco a poco gli occhi gli si appannarono; e sebbene sentisse avvicinarsi la morte, pure sperava sempre che da un momento a un altro sarebbe capitata qualche anima pietosa a dargli aiuto.
@@ -1299,7 +1306,8 @@ Il Falco volò via, e dopo due minuti tornò dicendo:
 
 — E come l'hai trovato? Vivo o morto?
 
-Un grosso Falco venne a posarsi sul davanzale della finestra.
+<img src="/images/le-avventure-di-pinocchio/ill90.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Un grosso Falco venne a posarsi sul davanzale della finestra.</span>
 
 — A vederlo pareva morto, ma non dev'essere ancora morto perbene, perchè appena gli ho sciolto il nodo scorsoio che lo stringeva intorno alla gola, ha lasciato andare un sospiro, balbettando a mezza voce: «Ora mi sento meglio!...» —
 
@@ -1317,7 +1325,8 @@ Il Can-barbone, per fare intendere che aveva capito, dimenò tre o quattro volte
 
 Di lì a poco, si vide uscire dalla scuderia una bella carrozzina color dell'aria, tutta imbottita di penne di canarino e foderata nell'interno di panna montata e di crema coi savoiardi. La carrozzina era tirata da cento pariglie di topini bianchi, e il Can-barbone, seduto a cassetta, schioccava la frusta a destra e a sinistra, come un vetturino quand'ha paura di aver fatto tardi.
 
-Il Can-barbone partì come un barbero.
+<img src="/images/le-avventure-di-pinocchio/ill92.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Il Can-barbone partì come un barbero.</span>
 
 Non era ancora passato un quarto d'ora che la carrozzina tornò, e la Fata, che stava aspettando sull'uscio di casa, prese in collo il povero burattino, e portatolo in una cameretta che aveva le pareti di madreperla, mandò subito a chiamare i medici più famosi del vicinato.
 
@@ -1327,7 +1336,8 @@ E i medici arrivarono subito uno dopo l'altro: arrivò cioè, un Corvo, una Cive
 
 — Vorrei saper da lor signori — disse la Fata, rivolgendosi ai tre medici riuniti intorno al letto di Pinocchio — vorrei sapere da lor signori se questo disgraziato burattino sia vivo o morto!... —
 
-La Fata prese in collo il povero burattino.
+<img src="/images/le-avventure-di-pinocchio/ill93.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">La Fata prese in collo il povero burattino.</span>
 
 A quest'invito, il Corvo, facendosi avanti per il primo, tastò il polso a Pinocchio; poi gli tastò il naso, poi il dito mignolo dei piedi: e quand'ebbe tastato ben bene, pronunziò solennemente queste parole:
 
@@ -1449,7 +1459,8 @@ La Fata andò, e chiuse l'uscio di camera.
 
 A questo punto, la porta della camera si spalancò, [99] ed entrarono dentro quattro conigli neri come l'inchiostro, che portavano sulle spalle una piccola bara da morto.
 
-Entrarono dentro quattro conigli neri come l'inchiostro.
+<img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Entrarono dentro quattro conigli neri come l'inchiostro.</span>
 
 — Che cosa volete da me? — gridò Pinocchio, rizzandosi tutto impaurito a sedere sul letto.
 
@@ -1507,7 +1518,8 @@ A questa seconda bugia, il naso seguitò a crescere.
 
 — Ah! ora che mi rammento bene — replicò il burattino imbrogliandosi — le quattro monete non le ho perdute, ma senza avvedermene, le ho inghiottite mentre bevevo la vostra medicina. —
 
-Il naso gli si allungò in un modo così straordinario....
+<img src="/images/le-avventure-di-pinocchio/ill103.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Il naso gli si allungò in un modo così straordinario....</span>
 
 A questa terza bugia, il naso gli si allungò in un modo così straordinario, che il povero Pinocchio non poteva più girarsi da nessuna parte. Se si voltava di qui, batteva il naso nel letto o nei vetri della finestra, se si voltava di là, lo batteva nelle pareti o nella porta di camera, se [104] alzava un po' di più il capo, correva il rischio di ficcarlo in un occhio alla Fata.
 
@@ -1557,7 +1569,8 @@ Pinocchio partì: e appena entrato nel bosco, cominciò a correre come un capri�
 
 — Gli assassini?... Oh povero amico! E che cosa volevano?
 
-— Ecco il nostro caro Pinocchio! — gridò la Volpe, abbracciandolo.
+<img src="/images/le-avventure-di-pinocchio/ill107.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Ecco il nostro caro Pinocchio! — gridò la Volpe, abbracciandolo.</span>
 
 — Mi volevano rubare le monete d'oro.
 
@@ -1627,7 +1640,8 @@ In mezzo a questa folla di accattoni e di poveri vergognosi, passavano di tanto 
 
 — È qui a due passi. —
 
-Vide tutte le strade popolate di cani spelacchiati.
+<img src="/images/le-avventure-di-pinocchio/ill111.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Vide tutte le strade popolate di cani spelacchiati.</span>
 
 Detto fatto traversarono la città, e, usciti fuori delle mura, si fermarono in un campo solitario che, su per giù, somigliava a tutti gli altri campi.
 
@@ -1663,7 +1677,8 @@ E mentre camminava con passo frettoloso, il cuore gli batteva forte e gli faceva
 
 [114]
 
-Tirò fuori una mano di tasca e si dette una lunghissima grattatina di capo.
+<img src="/images/le-avventure-di-pinocchio/ill114.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Tirò fuori una mano di tasca e si dette una lunghissima grattatina di capo.</span>
 
 Così fantasticando, giunse in vicinanza del campo, e lì si fermò a guardare se per caso avesse potuto scorgere qualche albero coi rami carichi di monete: ma non vide nulla. Fece altri cento passi in avanti, e nulla; entrò sul campo.... andò proprio su quella piccola buca, dove aveva sotterrato i suoi zecchini, e nulla. Allora diventò pensieroso, e, [115] dimenticando le regole del Galateo e della buona creanza, tirò fuori una mano di tasca e si dette una lunghissima grattatina di capo.
 
@@ -1695,7 +1710,8 @@ Preso allora dalla disperazione, tornò di corsa in città e andò difilato in t
 
 Il giudice era uno scimmione della razza dei Gorilla: un vecchio scimmione rispettabile per la [117] sua grave età, per la sua barba bianca e specialmente per i suoi occhiali d'oro, senza vetri, che era costretto a portare continuamente, a motivo d'una flussione d'occhi, che lo tormentava da parecchi anni.
 
-Pinocchio, alla presenza del giudice raccontò per filo e per segno l'iniqua frode.
+<img src="/images/le-avventure-di-pinocchio/ill117.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Pinocchio, alla presenza del giudice raccontò per filo e per segno l'iniqua frode.</span>
 
 Pinocchio, alla presenza del giudice, raccontò per filo e per segno l'iniqua frode, di cui era stato vittima; dette il nome, il cognome e i connotati dei malandrini, e finì chiedendo giustizia.
 
