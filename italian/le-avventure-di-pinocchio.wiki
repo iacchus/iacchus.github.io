@@ -606,7 +606,8 @@ Allora Geppetto disse al burattino:
 
 E Pinocchio chiuse gli occhi e fece finta di dormire. E nel tempo che si fingeva addormentato, Geppetto con un po' di colla sciolta in un guscio d'uovo gli appiccicò i due piedi al loro posto, e glieli appiccicò così bene, che non si vedeva nemmeno il segno dell'attaccatura.
 
-Principiò a fare mille sgambetti.
+<img src="/images/le-avventure-di-pinocchio/ill42.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Principiò a fare mille sgambetti.</span>
 
 Appena il burattino si accòrse di avere i piedi, saltò giù dalla tavola dove stava disteso, e principiò a fare mille sgambetti e mille capriole, come se fosse ammattito dalla gran contentezza.
 
@@ -616,7 +617,8 @@ Appena il burattino si accòrse di avere i piedi, saltò giù dalla tavola dove 
 
 — Ma per andare a scuola ho bisogno d'un po' di vestito. —
 
-Gli fece.... un berrettino di midolla di pane.
+<img src="/images/le-avventure-di-pinocchio/ill43.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">Gli fece.... un berrettino di midolla di pane.</span>
 
 Geppetto, che era povero e non aveva in tasca nemmeno un centesimo, gli fece allora un vestituccio di carta fiorita, un paio di scarpe di scorza d'albero e un berrettino di midolla di pane.
 
@@ -722,7 +724,8 @@ Pinocchio che aveva addosso la febbre della curiosità, perse ogni ritegno e dis
 
 — Bell'acquisto davvero! Un berretto di midolla di pane! C'è il caso che i topi me lo vengano a mangiare in capo! —
 
-— Vuoi darmi quattro soldi di quest'Abbecedario nuovo?
+<img src="/images/le-avventure-di-pinocchio/ill49.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Vuoi darmi quattro soldi di quest'Abbecedario nuovo?</span>
 
 Pinocchio era sulle spine. Stava lì lì per fare l'ultima offerta: ma non aveva coraggio: esitava, tentennava, pativa. Alla fine disse:
 
@@ -754,7 +757,8 @@ Quando all'improvviso, che è che non è, Arlecchino smette di recitare, e volta
 
 — È Pinocchio davvero! — grida Pulcinella.
 
-.... Eppure quello laggiù è Pinocchio!...
+<img src="/images/le-avventure-di-pinocchio/ill52.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">.... Eppure quello laggiù è Pinocchio!...</span>
 
 — È proprio lui! — strilla la signora Rosaura, facendo capolino in fondo alla scena.
 
@@ -776,7 +780,8 @@ Tutto fiato buttato via, perchè i burattini, invece di continuare la recita, ra
 
 Allora uscì fuori il burattinaio, un omone così brutto, che metteva paura soltanto a guardarlo. Aveva una barbaccia nera come uno scarabocchio d'inchiostro, e tanto lunga, che gli scendeva dal mento fino a terra: basta dire che, quando camminava se la pestava coi piedi. La sua bocca era larga come un forno, i suoi occhi parevano [54] due lanterne di vetro rosso, col lume acceso di dietro; e con le mani schioccava una grossa frusta, fatta di serpenti e di code di volpe attorcigliate insieme.
 
-All'apparizione inaspettata del burattinaio, ammutolirono tutti.
+<img src="/images/le-avventure-di-pinocchio/ill54.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">All'apparizione inaspettata del burattinaio, ammutolirono tutti.</span>
 
 All'apparizione inaspettata del burattinaio, ammutolirono tutti: nessuno fiatò più. Si sarebbe sentito volare una mosca. Quei poveri burattini, maschi e femmine, tremavano come tante foglie.
 
@@ -826,7 +831,8 @@ Dopo avere starnutito, il burattinaio, seguitando a fare il burbero, gridò a Pi
 
 A questo comando comparvero subito due giandarmi di legno, lunghi lunghi, secchi secchi, col cappello a lucerna in testa e colla sciabola sfoderata in mano.
 
-— Pigliatemi lì quell'Arlecchino....
+<img src="/images/le-avventure-di-pinocchio/ill58.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">— Pigliatemi lì quell'Arlecchino....</span>
 
 Allora il burattinaio disse loro con voce rantolosa:
 
@@ -874,13 +880,16 @@ Pinocchio corse subito, e arrampicandosi come uno scoiattolo su per la barba del
 
 [61]
 
-E arrampicandosi come uno scoiattolo su per la barba del burattinaio....
+<img src="/images/le-avventure-di-pinocchio/ill61.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E arrampicandosi come uno scoiattolo su per la barba del burattinaio....</span>
 
 [63]
 
 — La grazia è fatta! — rispose Mangiafoco; poi soggiunse sospirando e tentennando il capo:
 
 — Pazienza! per questa sera mi rassegnerò a mangiare il montone mezzo crudo: ma un'altra volta, guai a chi toccherà!... —
+
+<img src="/images/le-avventure-di-pinocchio/ill63.jpg" class="center"/>
 
 Alla notizia della grazia ottenuta, i burattini corsero tutti sul palcoscenico e, accesi i lumi e i lampadari come in serata di gala, cominciarono a saltare e a ballare.
 
