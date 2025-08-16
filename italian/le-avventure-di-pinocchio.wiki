@@ -210,6 +210,8 @@ A sentirsi chiamar Polendina per la terza volta, Geppetto perse il lume degli oc
 
 A battaglia finita, mastr'Antonio si trovò due graffi di più sul naso, e quell'altro due bottoni di meno al giubbetto. Pareggiati in questo modo i loro conti, si strinsero la mano e giurarono di rimanere buoni amici per tutta la vita.
 
+{{/images/le-avventure-di-pinocchio/ill14.jpg||class="center"|image}}
+
 Intanto Geppetto prese con sè il suo bravo pezzo di legno, e ringraziato mastr'Antonio, se ne tornò zoppicando a casa.
 
 [15]
@@ -229,7 +231,8 @@ Quando ebbe trovato il nome al suo burattino, allora cominciò a lavorare a buon
 
 Fatti gli occhi, figuratevi la sua maraviglia quando si accòrse che gli occhi si movevano e che lo guardavano fisso fisso.
 
-Più lo ritagliava e lo scorciva, e più quel naso impertinente diventava lungo.
+{{/images/le-avventure-di-pinocchio/ill16.jpg||class="center"|image}}
+<span class="imagetext pinocchio-imagetext">Più lo ritagliava e lo scorciva, e più quel naso impertinente diventava lungo.</span>
 
 Geppetto vedendosi guardare da quei due occhi di legno, se n'ebbe quasi per male, e disse con accento risentito:
 
@@ -265,7 +268,9 @@ A quel garbo insolente e derisorio, Geppetto si fece tristo e melanconico, come 
 
 — Birba d'un figliuolo! Non sei ancora finito di fare, e già cominci a mancar di rispetto a tuo padre! Male, ragazzo mio, male! —
 
-E Pinocchio, invece di rendergli la parrucca, se la messe in capo per sè....
+<!--{{/images/le-avventure-di-pinocchio/ill6.jpg||class="center"|image}}-->
+<img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
+<span class="imagetext pinocchio-imagetext">E Pinocchio, invece di rendergli la parrucca, se la messe in capo per sè....</span>
 
 E si rasciugò una lacrima.
 
