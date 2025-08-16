@@ -110,7 +110,6 @@ In quel punto fu bussato alla porta.
 
 — Passate pure, — disse il falegname, senza aver la forza di rizzarsi in piedi.
 
-
 {{/images/le-avventure-di-pinocchio/ill10.jpg||class="center"|image}}
 <span class="imagetext pinocchio-imagetext">Un vecchietto tutto arzillo, il quale aveva nome Geppetto.</span>
 
@@ -286,7 +285,8 @@ Poi prese il burattino sotto le braccia e lo posò in terra, sul pavimento della
 
 Pinocchio aveva le gambe aggranchite e non sapeva muoversi, e Geppetto lo conduceva per la mano per insegnargli a mettere un passo dietro l'altro.
 
-— Piglialo! piglialo! — urlava Geppetto.
+{{/images/le-avventure-di-pinocchio/ill9.jpg||class="center"|image}}
+<span class="imagetext pinocchio-imagetext">— Piglialo! piglialo! — urlava Geppetto.</span>
 
 Quando le gambe gli si furono sgranchite, Pinocchio cominciò a camminare da sè e a correre per la stanza; finchè, infilata la porta di casa, saltò nella strada e si dètte a scappare.
 
