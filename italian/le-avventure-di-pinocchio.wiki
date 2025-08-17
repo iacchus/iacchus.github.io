@@ -67,7 +67,8 @@ Não era uma madeira nobre, mas um simples pedaço de madeira de pilha de lenha,
 Não sei como aconteceu, mas o fato é que um belo dia esse pedaço de lenha acabou na oficina de um velho carpinteiro, o qual tinha o nome de mestre Antônio, ainda que todos o chamassem de Mestre Ciliegia, por causa da ponta do seu nariz, que era sempre brilhante e roxa, como uma cereja madura.
 
 <img src="/images/le-avventure-di-pinocchio/ill6.jpg" class="center"/>
-<span class="imagetext pinocchio-imagetext">.... sentì una vocina sottile sottile.</span>
+<span class="imagetext pinocchio-imagetext">*.... sentì una vocina sottile sottile.*</span>
+<span class="imagetext pinocchio-imagetext">.... escutou uma vozinha, baixinha baixinha.</span>
 
 *Appena maestro Ciliegia ebbe visto quel pezzo di legno, si rallegrò tutto; e dandosi una fregatina di mani per la contentezza, borbottò a mezza voce:*
 Foi só o maestro Cereja ter visto aquele pedaço de lenha, ele ficou todo feliz; e dando uma esfregadinha de mãos pela alegria, murmurou a meia voz:
@@ -82,7 +83,7 @@ Dito isso, ele pegou imediatamente o machado afiado para começar a tirar-lhe a 
 — Não me bate tão forte! —
 
 *Figuratevi come rimase quel buon vecchio di maestro Ciliegia!*
-Imagina como ficou o bom velho do mestre Cereja!
+Imagina como ficou o bom velho do mestre Ciliegia!
 
 *Girò gli occhi smarriti intorno alla stanza per vedere di dove mai poteva essere uscita quella vocina, e non vide nessuno! Guardò sotto il banco, e nessuno: guardò dentro un armadio che stava sempre chiuso, e nessuno; guardò nel corbello dei trucioli e della segatura, e nessuno; aprì l'uscio di bottega per dare un'occhiata anche sulla strada, e nessuno. O dunque?...*
 Ele girou os olhos, perdido, ao redor da sala para ver de onde poderia ter saído aquela vozinha, e não viu ninguém! Olhou embaixo do banco, e ninguém: olhou dentro de um armário que estava sempre fechado, e ninguém; olhou na cesta de aparas e de serragem, e ninguém; abriu a porta da oficina para dar também uma olhada na rua, e ninguém. E daí?...
