@@ -78,7 +78,7 @@ Dizia no livro: “As jibóias engolem sua presa inteira, sem mastigá-la. Entã
 *J'ai alors beaucoup réfléchi sur les aventures de la jungle et, à mon tour, j'ai réussi, avec un crayon de couleur, à tracer mon premier dessin. Mon dessin numéro 1. Il était comme ça:*
 Então eu pensei muito nas aventuras da selva e, por minha vez, tive sucesso, com um giz de cera, de traçar o meu primeiro desenho. Meu desenho de número 1. Ele era assim:
 
-{{/images/le-petit-prince/0300771h-06.jpg||class="center"|image}}
+<img src="/images/le-petit-prince/0300771h-06.jpg" class="center"/>
 
 *J'ai montré mon chef-d'oeuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur.*
 Eu mostrei minha obra-prima para as gentes grandes e eu perguntei-lhes se meu desenho as deixava com medo.
@@ -89,7 +89,7 @@ Elas me respondem: “Por que um chapéu deixaria com medo?”
 *Mon dessin ne représentait pas un chapeau. Il représentait un serpent boa qui digérait un éléphant. J'ai alors dessiné l'intérieur du serpent boa, afin que les grandes personnes puissent comprendre. Elles ont toujours besoin d'explications. Mon dessin numéro 2 était comme ça:*
 Meu desenho não depictava um chapéu. Ele depictava uma jibóia que digeria um elefante. Então eu desenhei o interior da jibóia, para que as gentes grandes conseguissem entender. Elas sempre precisam que explique. Meu desenho de número 2 era assim:
 
-{{/images/le-petit-prince/0300771h-07.jpg||class="center"|image}}
+<img src="/images/le-petit-prince/0300771h-05.jpg" class="center"/>
 
 *Les grandes personnes m'ont conseillé de laisser de côté les dessins de serpents boas ouverts ou fermés, et de m'intéresser plutôt à la géographie, à l'histoire, au calcul et à la grammaire. C'est ainsi que j'ai abandonné, à l'âge de six ans, une magnifique carrière de peinture. J'avais été découragé par l'insuccès de mon dessin numéro 1 et de mon dessin numéro 2. Les grandes personnes ne comprennent jamais rien toutes seules, et c'est fatigant, pour les enfants, de toujours et toujours leur donner des explications.*
 As gentes grandes me aconselharam a deixar para trás os desenhos de jibóias abertas ou fechadas, e de ao invés disso me interessar pela geografia, pela história, pel'aritmética e pela gramática. É assim que eu abandonei, à idade de seis anos, uma carreira magnífica na pintura. Eu fui desencorajado pelo insucesso do meu desenho de número 1 e do meu desenho de número 2. As gentes grandes não entendem qualquer coisa sozinhas, e é cansativo, para os infantes, explicar para elas o tempo todo.
