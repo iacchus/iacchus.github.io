@@ -85,7 +85,7 @@ Dito isso, ele pegou imediatamente o machado afiado para começar a tirar-lhe a 
 Imagina como ficou o bom velho do mestre Cereja!
 
 *Girò gli occhi smarriti intorno alla stanza per vedere di dove mai poteva essere uscita quella vocina, e non vide nessuno! Guardò sotto il banco, e nessuno: guardò dentro un armadio che stava sempre chiuso, e nessuno; guardò nel corbello dei trucioli e della segatura, e nessuno; aprì l'uscio di bottega per dare un'occhiata anche sulla strada, e nessuno. O dunque?...*
-Ele girou os olhos, perdido, ao redor da sala para ver de onde poderia ter(TODO essere/ter) saído aquela vozinha, e não viu ninguém! Olhou embaixo do banco, e ninguém: olhou dentro de um armário que estava sempre fechado, e ninguém; olhou na cesta de aparas e de serragem, e ninguém; abriu a porta da oficina para dar também um'olhada(FIXME: espiar) na rua, e ninguém. E daí?
+Ele girou os olhos, perdido, ao redor da sala para ver de onde poderia ter saído aquela vozinha, e não viu ninguém! Olhou embaixo do banco, e ninguém: olhou dentro de um armário que estava sempre fechado, e ninguém; olhou na cesta de aparas e de serragem, e ninguém; abriu a porta da oficina para dar também uma olhada na rua, e ninguém. E daí?
 
 *— Ho capito; — disse allora ridendo e grattandosi la parrucca — si vede che quella vocina me la son figurata io. Rimettiamoci a lavorare. —*
 — Entendi; — disse agora rindo e coçando a peruca — se vê que aquela vozinha fui eu que imaginei. Voltemos a trabalhar. —
